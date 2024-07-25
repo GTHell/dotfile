@@ -1,0 +1,78 @@
+# set working directory to d:/projects
+
+# import = ["~/.config/alacritty/themes/themes/challenger_deep.toml"] # good look
+# import = ["~/.config/alacritty/themes/themes/catppuccin_mocha.toml"]
+# import = ["~/.config/alacritty/themes/themes/baitong.toml"] # ???
+# import = ["~/.config/alacritty/themes/themes/cyber_punk_neon.toml"]
+# import = ["~/.config/alacritty/themes/themes/dark_pride.toml"]
+# import = ["~/.config/alacritty/themes/themes/gruvbox_dark_hard.toml",] # nice subtle dark
+# import = ["~/.config/alacritty/themes/themes/hardhacker.toml"] #purple
+# import = ["~/.config/alacritty/themes/themes/iris.toml"] # purple
+# import = ["~/.config/alacritty/themes/themes/inferno.toml"] # red cool
+# import = ["~/.config/alacritty/themes/themes/iterm.toml"]
+# import = ["~/.config/alacritty/themes/themes/monokai_charcoal.toml"] # nice dark
+# import = ["~/.config/alacritty/themes/themes/terminal_app.toml"] # dark
+# import = ["~/.config/alacritty/themes/themes/nightfly.toml"] # gud looking
+# import = ["~/.config/alacritty/themes/themes/midnight-haze.toml"]
+# import = ["~/.config/alacritty/themes/themes/omni.toml"] # purple
+# import = ["~/.config/alacritty/themes/themes/xterm.toml"] # purple
+# import = ["~/.config/alacritty/themes/themes/solarized_dark.toml"]
+import = ["~/.config/alacritty/themes/themes/endeavouros.toml"] # endeavouros
+
+
+[shell]
+program = "/usr/bin/zsh"
+
+# font config for windows
+[font]
+# "JetBrainsMono Nerd Font:h13.6"
+# "Noto Sans Mono:h13.6"
+# normal = { family = "JetBrainsMono Nerd Font" }
+
+# normal = { family = "JetBrainsMono Nerd Font" }
+# normal = { family = "SauceCodePro Nerd Font" }
+# normal = { family = "0xProto nerd font" }
+# normal = { family = "NotoSans Nerd Font" }
+# normal = { family = "IosevkaTerm Nerd Font" }
+# normal = { family = "NotoSansM Nerd Font" }
+normal = { family = "Terminess Nerd Font" }
+size = 12
+offset = { x = 0, y = 1 }
+
+# some quirk with IosevkaTerm
+# Size 11.5 seems okay but 11 is too condence
+
+# Terminess require specific calculation for size to be correct
+# DPI for 1920x1080 is 100.45
+# Refer to their page
+# pt = px/dpi * 72
+# pt = 22 / 100.45 * 72 = 15.769039323046291
+# pt = 20 / 100.45 * 72 = 14.335490293678447
+# pt = 18 / 100.45 * 72 = 12.9019412643106
+## Terminess recommend size
+## 12 px or 9 pt
+## 14 px or 10.5 pt
+## 16 px or 12 pt
+## 18 px or 13.5 pt
+## 20 px or 15 pt
+## 22 px or 16.5 pt
+## 24 px or 18 pt
+## 28 px or 21 pt
+## 32 px or 24 pt- pt = 18 / 100.45 * 72 = 12.9019412643106
+# windows size 
+[window]
+
+# dimensions = { columns = 130, lines = 36 }
+# position.x = 330
+# position.y = 50
+
+decorations = "None"
+
+padding = { x = 10, y = 10 }
+dynamic_padding = true
+opacity = 0.92
+blur = true
+# decorations_theme_variant = "Dark"
+
+[mouse]
+hide_when_typing = true

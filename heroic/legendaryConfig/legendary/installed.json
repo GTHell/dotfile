@@ -1,0 +1,23 @@
+{
+  "808f0dfbf3b84c2680793724d7f207bf": {
+    "app_name": "808f0dfbf3b84c2680793724d7f207bf",
+    "base_urls": [],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "Hand of Fate 2.exe",
+    "install_path": "/media/gamedisk/linux_games/HandOfFate2",
+    "install_size": 4458578483,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": "",
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Hand of Fate 2",
+    "uninstaller": null,
+    "version": "1.9.91_54131_Win64_Live"
+  }
+}

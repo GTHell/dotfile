@@ -1,0 +1,23 @@
+[2024-06-17 04:51:42.851] [info]  No state version found, assuming empty state.
+[2024-06-17 04:51:43.535] [info]  State version: 60
+[2024-06-17 04:53:03.103] [info]  Error: No password found
+[2024-06-17 04:53:16.660] [info]  Finished search indexing
+[2024-06-17 04:53:16.730] [info]  Finished search indexing
+[2024-06-17 04:53:20.089] [info]  Finished search indexing
+[2024-06-17 04:53:20.663] [info]  Finished search indexing
+[2024-06-17 04:53:21.151] [info]  Finished search indexing
+[2024-06-17 04:53:21.622] [info]  Finished search indexing
+[2024-06-17 04:53:22.751] [info]  Finished search indexing
+[2024-06-17 04:53:23.600] [info]  Finished search indexing
+[2024-06-17 04:53:26.826] [info]  Finished search indexing
+[2024-06-17 04:55:29.866] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:89016:36)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:88777:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/usr/lib/bitwarden/app.asar/main.js:88773:12)
+    at WindowMain.updateWindowState (/usr/lib/bitwarden/app.asar/main.js:89011:16)
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:88946:28)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:88777:71
+    at new Promise (<anonymous>)

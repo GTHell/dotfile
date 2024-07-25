@@ -1,0 +1,34 @@
+{
+  "gvbYmhgyXvrwMrKYU3vRYv": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "showMangohud": true,
+    "useGameMode": true,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "wineVersion": {
+      "bin": "/home/sith/.local/share/lutris/runners/wine/wine-ge-8-26-x86_64/bin/wine",
+      "name": "Wine - wine-ge-8-26-x86_64",
+      "type": "wine",
+      "lib": "/home/sith/.local/share/lutris/runners/wine/wine-ge-8-26-x86_64/lib64",
+      "lib32": "/home/sith/.local/share/lutris/runners/wine/wine-ge-8-26-x86_64/lib",
+      "wineserver": "/home/sith/.local/share/lutris/runners/wine/wine-ge-8-26-x86_64/bin/wineserver"
+    },
+    "winePrefix": "/home/sith/Games/Heroic/Prefixes/default/Ubisoft Connect",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}

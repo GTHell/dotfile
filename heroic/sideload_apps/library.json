@@ -1,0 +1,22 @@
+{
+	"games": [
+		{
+			"runner": "sideload",
+			"app_name": "gvbYmhgyXvrwMrKYU3vRYv",
+			"title": "Ubisoft Connect",
+			"install": {
+				"executable": "/home/sith/Games/Heroic/Prefixes/default/Ubisoft Connect/drive_c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/UbisoftConnect.exe",
+				"platform": "Windows",
+				"is_dlc": false
+			},
+			"folder_name": "/home/sith/Games/Heroic/Prefixes/default/Ubisoft Connect/drive_c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher",
+			"art_cover": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/2c6863132637ca56cee2ee5d4c7b0923.png",
+			"is_installed": true,
+			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/2c6863132637ca56cee2ee5d4c7b0923.png",
+			"canRunOffline": true,
+			"browserUrl": "",
+			"customUserAgent": "",
+			"launchFullScreen": false
+		}
+	]
+}

@@ -1,0 +1,259 @@
+{
+	"global.vaultTimeout": -1,
+	"global.vaultTimeoutAction": "lock",
+	"stateVersion": 60,
+	"global_desktopSettings_openAtLogin": false,
+	"global_desktopSettings_window": {
+		"width": 1900,
+		"height": 1033,
+		"isMaximized": false,
+		"displayBounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1920,
+			"height": 1080
+		},
+		"x": 10,
+		"y": 10,
+		"zoomFactor": 1
+	},
+	"global_applicationId_appId": "3d11a3c0-98d4-46c3-a4b4-60dbf1fe225a",
+	"global_loginEmail_storedEmail": "sosxradar@gmail.com",
+	"global_ssoLogin_ssoEmail": "sosxradar@gmail.com",
+	"global_ssoLogin_ssoState": "E37SjZV6gXL2wgJSj8npkq2Kdg2SYL5qQ2W2wchZTvEdPAcH2VrJDkCshzyoTWF9",
+	"global_ssoLogin_ssoCodeVerifier": "7tK9h62GmkMZHmc9SyJtZk8pn6EUFu9FP34YeJWrTUpSAtCZmcsRT9fYLEgxBw9e",
+	"global_account_accounts": {
+		"4b476f20-140d-4418-bd24-b19101687b99": {
+			"email": "sosxradar@gmail.com",
+			"emailVerified": false
+		}
+	},
+	"global_account_activity": {
+		"4b476f20-140d-4418-bd24-b19101687b99": "2024-06-16T21:53:26.637Z"
+	},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_token_accessToken": "2.SrC01yxc2W8ZkyhXgHl6XA==|fG5z8vVzQlS34a/HuTwXWHzlAiDRnV/OQ1cBFM7vMzb9KujoL58Y43hd8taPeLteqzYtSJagw2aD4TxIMX7ngF2BYfpznluQnmg9aT2KVb+gwe86GpXWE/RPAM62kfiNiTObKaWX6HseiNPsdKYY9867WebZMFjFRiRGgTtu9NfoK5Le6gsmhQwc0E+gWDyK5CGRbw4IL+KTcZG7128j1J0lRUVuv534iL7yFuRa1BWUZor6GimTI5nJZrx0iOSpNCrHcm7keTU5Fm1aRlwyzBpCNN9Iw3a1OKEp79/aLRLi7k7T9b9g2DtujI8Ql2OD2wAoxVmKjKpvsjkN51/QU80aE5FlLyvaesKgYgLgFeNBzYrvMRRmIg5nciK4BDViQhiyXck42eb0m+lJKuS1ekozvXaBlHvO1QJN91RjFR1VsG2eG+QWalLiTDrfs0PHusSJcVrNkmyV57RRvgo3vguCaDyejuLcqxfbBE0uHz31hoVbdBgaMovxo+DrF6mk31AM+vB9awJEz7cmEKBwuO8JkKC3/woifFPhH2IdyG6LGa51yaqGnIsyP3b4G63sDUDbgQwFl/SnuxRDknteswXYWdvPYFPbV4nmPxYx+E4mBRZPJlhKwtJPwUwOKskh1sOFCFZ21f51WldkEn1CgCj4btkSfnXRAYrTzSr6CJZcloiSJdP1xWKtfsXBQGl0RcTs+kdnoDR/B7ePAqXN3n4tqDgjDmlla2XX9M1O0J6yILnwVNuOKgjirOAgwBsqDkArav100lH9s4hQnwvj9tIQ8LkUH5GPf487dk5dDJmRqN2cM0kx1NO6yXWCkVAXRvttmBTKgZ3RO25M2adqrT2hczLYg8iPcKTFIieYzxFaLZs/1viLkFqDtnuFioTu71x9NjIGHXNu77knU5sk8JKgw/M6HtXLkwhtg9Yz4HU92XfwR4JZoC72lIDRfTi3eSstHJv7rToNMg8zgUT0T2c1E/6Xx5lJqU4TMK5jYu/KuTjTb/TAYCfHUH3qWTiNTcuKdTqyGXmfBtDPfu4RKkilBQNyXgXktvb9cZuwHzH7JKdyy0285MOKRaStlR9J52icRFlNO1C6TqMzSA3J5qsSDm10jTiwhIDae6vBUz3sZ7JNsW0gxy3rr5ShuCOHJWz/J3SuVYgdNPG9IM1l/liWNrwzruf999wsFvwMIMBhPN8EQZh7k8MLBfMqqdyXb3d130lAFIXRHfPvwgQWG0OvyiFdaD34DnBqPCsb7UOESW8YyjCjg3J7GMZ9/XDe91tvLt9QKot/VJq0zw2j6ov1C0pJbG64O+AVSX2IOP3jyoj3ge6YAAjwPCpkJOi5EnxGv9ybSDImamaLN4d47hCaFqUmWavkAszjXujUW0NLoF/1X256mOUBQ/k12lTNhi/zllw72DDLwvK/g1F2dpuScpd85iuMn+m5+bKW5zXbXFqaneQE5EpXlkWxn/5HWjH8N8m4Mbdm+fSaych32nxnpr33y4C/JIZvQFgvZv8ZHKj761U851srUoe5DfWlhRx3bCHMgfqazOAHfZPB+BK657PKZse0AmTDUrD1V1dJ+M5qPvaDnBRqH35MaXyDR2J/Pv3H9DCg+BLGvtLopapdcrcVw0jLwkdX51ibh0Mq5T3nfGO5FFGDX0Ky77jXBE1OtmU2zbGq9FPCTC9/xIi0hxIWuzkx4rGiqa+AUI6X1EVfjVcZsIdjSBserYfSyZ6UirGbpkCRuHRySkCgR59KjHi2BilyGAy9fRJ5opd5RdZiJ8jzUFz9XrIJonl8Mn6IVe/iePdpGNCjP8b9siJpZevKQkL5OWQV22l591t0HlIhUNJEcoZwW7b6tmd98lYL1zCBHJpXdZ+dnNopsH3ieMzdWdOVh2ea11By8I/WXfi10O6jNUyM5/2fr50zI9OV6O9VKe0fCitbmLrt+A==|hY2pX8ZIGovlYZnDG18lLL2cgn8aaR27YXJgPi3B9PA=",
+	"user_4b476f20-140d-4418-bd24-b19101687b99_token_refreshToken": null,
+	"global_account_activeAccountId": "4b476f20-140d-4418-bd24-b19101687b99",
+	"user_4b476f20-140d-4418-bd24-b19101687b99_environment_environment": {},
+	"4b476f20-140d-4418-bd24-b19101687b99": {
+		"data": {
+			"passwordGenerationHistory": {}
+		},
+		"keys": {
+			"cryptoSymmetricKey": {}
+		},
+		"profile": {
+			"userId": "4b476f20-140d-4418-bd24-b19101687b99",
+			"email": "sosxradar@gmail.com",
+			"lastSync": "2024-06-16T21:53:15.819Z"
+		},
+		"settings": {
+			"vaultTimeoutAction": "lock",
+			"pinProtected": {},
+			"vaultTimeout": -1
+		}
+	},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_userDecryptionOptions_decryptionOptions": {
+		"hasMasterPassword": true
+	},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_kdfConfig_kdfConfig": {
+		"kdfType": 0,
+		"iterations": 600000
+	},
+	"global_clearEvent_logout": [
+		{
+			"state": "kdfConfig",
+			"key": "kdfConfig",
+			"location": "disk"
+		},
+		{
+			"state": "billing",
+			"key": "accountProfile",
+			"location": "disk"
+		},
+		{
+			"state": "masterPassword",
+			"key": "masterKey",
+			"location": "memory"
+		},
+		{
+			"state": "masterPassword",
+			"key": "masterKeyHash",
+			"location": "disk"
+		},
+		{
+			"state": "masterPassword",
+			"key": "masterKeyEncryptedUserKey",
+			"location": "disk"
+		},
+		{
+			"state": "crypto",
+			"key": "userKey",
+			"location": "memory"
+		},
+		{
+			"state": "crypto",
+			"key": "everHadUserKey",
+			"location": "disk"
+		},
+		{
+			"state": "crypto",
+			"key": "privateKey",
+			"location": "disk"
+		},
+		{
+			"state": "crypto",
+			"key": "providerKeys",
+			"location": "disk"
+		},
+		{
+			"state": "crypto",
+			"key": "organizationKeys",
+			"location": "disk"
+		},
+		{
+			"state": "vaultSearch",
+			"key": "isIndexing",
+			"location": "memory"
+		},
+		{
+			"state": "token",
+			"key": "securityStamp",
+			"location": "memory"
+		},
+		{
+			"state": "vaultSearch",
+			"key": "searchIndex",
+			"location": "memory"
+		},
+		{
+			"state": "keyConnector",
+			"key": "usesKeyConnector",
+			"location": "disk"
+		},
+		{
+			"state": "providers",
+			"key": "providers",
+			"location": "disk"
+		},
+		{
+			"state": "organizations",
+			"key": "organizations",
+			"location": "disk"
+		},
+		{
+			"state": "encryptedSend",
+			"key": "sendUserEncrypted",
+			"location": "disk"
+		},
+		{
+			"state": "domainSettings",
+			"key": "equivalentDomains",
+			"location": "disk"
+		},
+		{
+			"state": "policies",
+			"key": "policies",
+			"location": "disk"
+		},
+		{
+			"state": "environment",
+			"key": "cloudRegion",
+			"location": "memory"
+		},
+		{
+			"state": "config",
+			"key": "serverConfig",
+			"location": "disk"
+		},
+		{
+			"state": "eventCollection",
+			"key": "events",
+			"location": "disk"
+		}
+	],
+	"user_4b476f20-140d-4418-bd24-b19101687b99_billing_accountProfile": {
+		"hasPremiumPersonally": false,
+		"hasPremiumFromAnyOrganization": false
+	},
+	"global_clearEvent_lock": [
+		{
+			"state": "masterPassword",
+			"key": "masterKey",
+			"location": "memory"
+		},
+		{
+			"state": "crypto",
+			"key": "userKey",
+			"location": "memory"
+		},
+		{
+			"state": "vaultSearch",
+			"key": "isIndexing",
+			"location": "memory"
+		},
+		{
+			"state": "vaultSearch",
+			"key": "searchIndex",
+			"location": "memory"
+		}
+	],
+	"user_4b476f20-140d-4418-bd24-b19101687b99_masterPassword_masterKeyHash": "bN09St+nZOGU1Ro36LXL909JTMcxori+Cky8BnR9Qds=",
+	"user_4b476f20-140d-4418-bd24-b19101687b99_masterPassword_masterKeyEncryptedUserKey": "2.htJSCQxNc6osrujDLDIq3g==|RmPA0YY2ODmqIIrmZca6f2MAEfpPO+lyzVPyaK/6sDaXffYDZJLR8CcjYOC6oZkZn2eH3b7PCp5nnArpE8v1xStwEtQhKBrN2OYdKzt0pm8=|dsU0ifHz6PYg1zE16JzFAk2omaKzHjrDhnzL2W7EEkU=",
+	"user_4b476f20-140d-4418-bd24-b19101687b99_crypto_everHadUserKey": true,
+	"user_4b476f20-140d-4418-bd24-b19101687b99_crypto_privateKey": "2.MUh7vo9GjjHtFH0IxKLOjA==|apUtJIgqhLF0MW8QXQ6VJd2+xKH+XOxOwiQRObDHl61tTZpcHlWdlVOUxDqoilL4XnX6pd5Eo2Htu2RcILiu7nVWu6Ua/QOj/NSIf7zW/0aKXLfr/JKwv4IO8T3+VVAdOrAaH2x9C7w5VKyYQgjX/Je54RB0kebmBDwwnAJryZ+sw2/ulH8XZOTYPJ4o6pIpde3PRsdIkBngdBuAG64QQg8al//hkF6Pg8gDfSJkfHE8MGkLf7EGZz/oHzwOGm3DD9duNkqZp51usIe7Yrl5cYdpN4Pp2NYYdHVyxcVIDQNYP+n6+xVp0uNa3ZzyAs1qhieM6v0PM6J23o7Oi1BS3x4mqMxS4n1dXozK8G+mHieooaorbSF9gTOJC9JZuyVyQI6Ol8N6hddQQDkiE9UsMsneFJH8qwu76fCjwNJ1Fd2zfyxCHwspMXEMnRHf5K62g8F6zZCD9YexODU4ON6VuEnhZSvZuztq5FI6SHf3CnimJPMJULyUhl3oBx4nFEi7fwQJ4JkY8Rj6kCZL/J+nd8rI858Zv5kGmYvXo/YM5by4S6aadyuLh0k7RFTzE/zsni61uVINA1WJubx+MdlX5EGkCKQFE9gZa+yBNC9ZU6D5YMBSN25qfGsQ8gkEKMha6OkN1Ir+c0nhJGr84E4YzrgrqqwNRUzQdU8qVcQKdGG3tDFQ4Ku80fuSm+Ne8mFfthKgz+cB096l7XdrG/H+dKdd6jMvXv3fynvzCZOSv44nWIy4v1dN6HxG6eyVN6TzSYtFT5hY2wLSxnMr6h2GQgIaOvtqLCWpM2HWkD0Kfs8ycVTrohVcext03FA/MogXKguep33d97wpPg2/3grDxhNlI1y/VxV7O+hAjXDvkerEASpZuUzbwlHu3Ek1riuHeL47P4E7fq1nNpWgF9kDgEvKMpBKh9AxM0ei0h0c6zmdcMPoLh1x+PPmLeImgDQOGqcDr+XgRebNeCJqJrxzko8+CLN6dSkQJK2ic/WyjmSGBfYkhVlEflxeAKyiTNHZIUbNwP1P1a5cu0IKM8AgXha3+L4Dx9j9YqMPGU8uSc2j+NHi9b6PZxwH2oXeqo5aJP2O0L1D49nTNWC8jiw+LpTzKwSXq54v+1GNktwA2BdJo0Ie0uBQF4kfpU4gqBPUZK7012iKOIxp8N8QzK7IDZC+ZiVrNQgQYaeB/yfU+LKHbSY8ReS5c9uWLCPbrwQ6gSNqyAHv16bWfpCsFlJesJmSlA4QOxw7mdUcvzuIYmdAgtUk0E0YBPNDcB9sTNqxqUEu1fXQajk9EwEbn0qywJq7QLPR/G0wTVC0zPg6LWmvnvj7hMd8OzinCx4cn+eehcu+4USWJVNLk+mdv3zgGxZIIRqzn0QiCmOoGj5tmGr2ilNY0zwW+W7+MN3DZCiLFvHlTZCG+n2vdSXO4tbH8VR9/IEB8tG1vmrPB2bEOrU52vfIBmCWeBtj62/OyqWJElRJpCGz45YCRei/0GFMt89eL4cVDpMvw5FHFUnbNNhV4eR/02YuCeom0wPG2kAFArk9ba+ship/Y4TBf3zsRX8OvQfWLLt1VISfX+zUkP6GouOsnTYFnV+Bc91eGNeah3s0G/tmpQLokj0CEjR5oQtYasAT6xAPjEOXlEhCWcw=|cc+i2qWEm3QHuqLe90UY4Vaq56zR49Fk2ve9ivh2mS8=",
+	"user_4b476f20-140d-4418-bd24-b19101687b99_crypto_providerKeys": {},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_crypto_organizationKeys": {},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_avatar_avatarColor": null,
+	"user_4b476f20-140d-4418-bd24-b19101687b99_keyConnector_usesKeyConnector": false,
+	"user_4b476f20-140d-4418-bd24-b19101687b99_providers_providers": {},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_organizations_organizations": {},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_keyConnector_convertAccountToKeyConnector": null,
+	"user_4b476f20-140d-4418-bd24-b19101687b99_folder_folders": {},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_collection_collections": {},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_ciphers_ciphers": {},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_encryptedSend_sendUserEncrypted": {},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_domainSettings_equivalentDomains": [],
+	"user_4b476f20-140d-4418-bd24-b19101687b99_policies_policies": {},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_config_serverConfig": {
+		"featureStates": {
+			"display-eu-environment": true,
+			"browser-fileless-import": false,
+			"return-error-on-existing-keypair": true,
+			"use-tree-walker-api-for-page-details-collection": true,
+			"flexible-collections-v-1": false,
+			"key-rotation-improvements": true,
+			"duo-redirect": true,
+			"PM-5766-automatic-tax": true,
+			"PM-5864-dollar-threshold": false,
+			"show-payment-method-warning-banners": false,
+			"AC-2101-update-trial-initiation-email": true,
+			"enable-consolidated-billing": false,
+			"AC-1795_updated-subscription-status-section": false,
+			"unassigned-items-banner": false,
+			"AC-1218-delete-provider": false,
+			"email-verification": false,
+			"anh-fcmv1-migration": true,
+			"extension-refresh": false,
+			"restrict-provider-access": false,
+			"vault-bulk-management-action": false,
+			"bulk-device-approval": false,
+			"ac-2059-member-access-report": false,
+			"block-legacy-users": false
+		},
+		"version": "2024.6.1",
+		"gitHash": "8e1ad16f",
+		"server": null,
+		"utcDate": "2024-06-16T21:53:17.022Z",
+		"environment": {
+			"cloudRegion": "US",
+			"vault": "https://vault.bitwarden.com",
+			"api": "https://api.bitwarden.com",
+			"identity": "https://identity.bitwarden.com",
+			"notifications": "https://notifications.bitwarden.com",
+			"sso": "https://sso.bitwarden.com"
+		}
+	},
+	"user_4b476f20-140d-4418-bd24-b19101687b99_eventCollection_events": [],
+	"global_biometricSettings_promptCancelled": null
+}

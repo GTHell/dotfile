@@ -1,0 +1,2179 @@
+(http get http://api.chucknorris.io/jokes/random).value
+(http get http://api.chucknorris.io/jokes/random)
+(http get http://api.chucknorris.io/jokes/random).url
+brew list
+z setup -h
+zelliq setup -h
+exit
+starship init nu | save -f ~/.cache/starship/init.nu<\n>
+exit
+echo $SHEL
+echo $SHELL
+$env.SHELL
+exit
+chsh bash
+which bash
+exit
+nu --lsp
+exit
+z
+zelliq
+z
+brew
+vim
+ls | grep
+(ls)
+ls -h
+(ls -a)
+(ls -a).zshrc
+(ls -a).name
+zelliq
+vim .zshrc
+vim .config/nushell/config.nu
+exec nu
+exit
+brew
+vim .config/nushell/config.nu
+eval
+vim .config/nushell/config.nu
+homebrew/bin/brew shellenv
+eval "$(homebrew/bin/brew shellenv)"<\n>
+"$(homebrew/bin/brew shellenv)"<\n>
+nu -h
+$nu.env-path
+python
+vim .config/nushell/env.nu
+bash
+vim .config/nushell/config.nu
+exit
+brew
+$env.PATH = ($env.PATH | prepend "/home/linuxbrew/.linuxbrew/bin")
+brew
+$env.PATH = ($env.PATH | prepend "/home/linuxbrew/.linuxbrew/bin")
+exit
+brew
+$env.PATH = ($env.PATH | prepend "/home/linuxbrew/.linuxbrew/bin")
+vim .config/nushell/config.nu
+exit
+brew
+brew list
+(brew list)
+(brew list).get
+vim .config/nushell/config.nu
+exit
+brew
+brew helix
+sudo add-apt-repository ppa:maveonair/helix-editor<\n>
+brew searh helix
+brew install helix
+helix .config/nushell/config.nu
+helix
+hel
+brew search helix
+brew -h
+brew info helix
+neovim
+nvim
+vim .config/nushell/config.nu
+zsh
+nvim
+brew list
+gh
+nvim
+vim
+brew list
+btop
+ls ../linuxbrew/.linuxbrew/Homebrew/
+which btop
+brew info neovim
+zsh
+vim .config/nushell/config.nu
+vim
+nvim
+which helix
+which nvim
+whcih btop
+which btop
+nvim .config/nushell/config.nu
+zelliq
+:q
+zelliq
+exit
+:q
+exit
+zsh
+cargo
+zsh
+exit
+rustup
+exit
+zsh
+nvim .config/nushell/config.nu
+exit
+nvim .config/nushell/config.nu
+pwd
+ls
+vim .config/nushell/config.nu
+zellij
+rustup
+exit
+nu
+exit
+zsh
+exit
+nu
+vim .config/nushell/config.nu
+exec nu
+nu
+exit
+vim .config/nushell/config.nu
+exit
+zsh
+exit
+z
+exit
+zellij
+cd
+vim .config/nushell/config.nu
+exit
+vim .config/nushell/config.nu
+vim
+exit
+nu
+vim .config/nushell/config.nu
+vim
+vim .config/nushell/config.nu
+hx
+hx .config/nushell/config.nu
+b
+exit
+z
+exit
+z
+ghcs
+nu
+nu
+vim .config/nushell/config.nu
+nvim .zshrc
+hx .config/nushell/config.nu
+cd
+source-env $env.HOME/.rye/env
+source-env $env.HOME | path join .rye env
+source-env $env.HOME | path join .cargo env
+source $env.HOME | path join .cargo env
+source .cargo/env
+source-env .cargo/env
+hx .config/nushell/config.nu
+nvim
+rustup
+hx .config/nushell/config.nu
+cargo
+rustup
+rust
+rustup
+which rustup
+nu
+exit
+which rustup
+rustup
+rustup-init
+rustup
+cargo
+rustup
+vim
+which vim
+which nvim
+hx .config/nushell/config.nu
+cargo
+rustup -v
+which rustup
+exit
+nu
+exit
+zsh
+exit
+nu
+exit
+hx .config/nushell/config.nu
+vim .config/nushell/config.nu
+vi
+vi .config/nushell/config.nu
+nu
+exit
+vi .config/nushell/config.nu
+vi
+nano
+exit
+zsh
+cat
+cd
+explorer.exe
+pwd
+exit
+vim
+vim .config/nushell/config.nu
+cd
+vim .config/nushell/config.nu
+nu
+exit
+vim .config/nushell/config.nu
+cd
+vim .config/nushell/config.nu
+$env
+exit
+vim .config/nushell/config.nu
+cd
+vim .config/nushell/config.nu
+exit
+cd
+vim .config/nushell/config.nu
+exit
+vim .config/nushell/config.nu
+vim
+vi
+cd
+vi .config/nushell/config.nu
+exit
+vim
+vi .config/nushell/config.nu
+cd
+vi .config/nushell/config.nu
+vim
+exit
+nu
+exit
+exit
+hx .config/nushell/config.nu
+vim .config/nushell/config.nu
+vim .cargo/env
+rustup -v
+exit
+vim .zshrc
+exit
+chsh -s zsh
+cat /etc/shells
+chsh -s /usr/bin/zsh
+exit
+docker
+docker ps
+docker iamges
+docker images
+exit
+vim .config/nushell/config.nu
+exit
+brew
+exit
+vim
+which
+which nu
+brew info nu
+brew search nu
+brew search nushell
+brew info nushell
+rust
+rustc
+cargo
+which
+which cargo
+exit
+node
+which node
+exit
+source
+exit
+source ~/.zoxide.nu
+dotnet
+which
+which dotnet
+exit
+config nu --default
+exit
+yazi
+exit
+vim
+dotnet new -h
+vim .config/nushell/config.nu
+nuconf
+source .config/nushell/config.nu
+nuconf
+pwd
+brew search clojure
+brew install clojure
+clojure
+vim
+clear
+vim
+node
+vim .config/nushell/config.nu
+exit
+node
+vim .config/nushell/config.nu
+exit
+zellij
+exit
+node
+npm
+which npm
+brew search node
+/home/linuxbrew/.linuxbrew/opt/node@20/bin/node
+vim .config/nushell/config.nu
+exit
+ndoe
+node
+which node
+which npm
+vim .config/nushell/config.nu
+ls
+ll
+ls
+ls -a
+vim
+curl -fL conjure.fun/school | sh<\n>
+vim
+exit
+z
+exit
+z -h
+explorer.exe
+open
+exit
+z
+z sessions
+ls
+ls | name
+ls -h
+ps
+ps | sort mem
+ps | sort
+ps | sort by mem
+ps | sort-by mem
+exit
+z
+ps | sort-by mem
+help ls
+vim
+brew search lein
+brew isntall leiningen
+brew install leiningen
+lein repl
+ls
+ls -a
+sudo chown -R gthell ~/.lein
+which lein
+ls .m2
+lein -h
+lein repl
+brew uninstall leiningen<\n><\n>
+mkdir .lein
+sudo chown -R gthell ~/.lein
+brew isntall leiningen
+brew install leiningen
+lein repl
+vim
+cd projects
+ls
+vim epic.md
+cd personal/
+ls
+vim
+vim conjure.py
+vim
+evcxr
+brew search evcxr
+vim ~/.config/nushell/config.nu
+rrepl
+exit
+z
+nuconf
+nuconfig
+rrepl
+cd projects
+cd ..
+cd personal
+nuconfig
+zoxide
+ze
+vim .zshrc
+nuconfig
+source .config/nushell/config.nu
+zoxide
+vim
+source .config/nushell/config.nu
+cd personal
+cd
+zoxide 
+zoxide init
+zoxide init nu
+zoxide init nushell
+ls =
+-a
+ls -a
+vim .zoxide
+nuconfig
+zoxide init nushell --cmd cd
+cdi
+__zoxide_z
+$nu.env-path
+$nu.config-path
+nuconfig
+exit
+cdi
+cd personal
+editor 
+vim
+ls
+exit
+ls
+exit
+ls
+eixt
+exit
+ls
+nuconfig
+starship
+starship init nu 
+mkdir ~/.cache/starship
+cd env
+cd
+cd env
+cd
+cd nushell 
+cd .config/nushell/
+vim env.nu
+$nu.config-path
+vim $nu.config-path
+source
+source $nu.config-path
+starship preset tokyo-night -o ~/.config/starship.toml
+clear
+starship preset gruvbox-rainbow -o ~/.config/starship.toml
+clear
+ls
+starship preset pastel-powerline -o ~/.config/starship.toml
+starship preset -h
+starship preset -l
+starship preset tokyo-night -o ~/.config/starship.toml
+vim ~/.config/starship.toml
+clear
+vim ~/.config/starship.toml
+exit
+z
+exit
+vim .config/starship.toml
+vim
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+vim $nu.config-path
+ls
+source $nu.config-path
+ls
+cd rust
+ls
+pwd
+exit
+vim ~/.config/starship.toml
+ls
+vim .
+which  rye
+pip
+pipe3
+pip3
+rye -h
+rye version
+which python
+rye
+rye toolchain
+rye toolchain list
+cd ..
+ls
+mkdir python-lisp
+cd python-lisp/
+rye 
+rye shwo
+rye show
+rye
+rye add hy
+rye self
+rye self completetion
+rye self completion
+$ eval "$(rye self completion -s zsh)"<\n>
+eval "$(rye self completion -s zsh)"<\n>
+^eval "$(rye self completion -s zsh)"<\n>
+rye self completion -s nushell
+rye self completion -s nushell
+vim $nu.config-path
+source $nu.config-path
+vim $nu.config-path
+vim
+source $nu.config-path
+vim
+source $nu.config-path
+ls
+vim main.py
+rye
+rye tools
+rye
+rye list
+rye init .
+ls
+vim
+rye add hy
+history session src/python_lisp/main.py
+hy
+vim .
+rye install hy
+hy
+vim
+pwd
+ls
+cd src/
+ls
+encode hex 
+ls
+cd python_lisp/
+ls
+hy main.hy
+python main.hy
+hy main.hy
+exit
+cd personal
+cd ..
+ls
+dotnet new console  -o notification-channel-parse 
+cd notification-channel-parse/
+ls
+vim .
+wez
+vim
+dotnet run
+q
+dotnet run
+vim .
+ls
+git init
+git status
+git add .
+git commit -m "First initialize with code"
+git status
+git remote add origin git@github.com:GTHell/notification-channel-parser.git
+git branch -M main
+git push -u origin main
+vim Readme.MD
+wez
+vim $nu.config-path
+hx
+cd /mnt/d/projects/qmk_firmware/
+vim . 
+vim $nu.config-path
+vim
+cd projects/
+ls
+mv personal/ dev
+cd dev
+ls
+ll
+ls
+mkdir learn-django
+cd learn-django
+ls
+rye init .
+ls
+ls src
+ls -a
+rye add hy
+rye add django
+ls
+cd src
+ls
+cd learn
+ls
+cd src/learn_django/
+ls
+rye sync
+cd ../../..
+ls
+rm -rf learen-django
+l
+ls
+rm -rf learn-django/
+mkdir learn-django
+cd django
+ls
+rye init --virtual
+ls
+ls -a
+rye add django
+rye sync
+ls -a
+ls
+source .venv/bin/activate
+source .venv/bin/activate.nu
+nu .venv/bin/activate.nu
+.venv/bin/activate.nu
+vim .venv/bin/activate.nu
+source .venv/bin/activate.nu
+ls
+overlay
+deactivate
+overlay hide activate
+vim .venv/bin/activate.nu
+overlay use activate .venv/bin/activate.nu
+vim .venv/bin/activate.nu
+overlay use .venv/bin/activate.nu
+ls
+deactivate
+exit
+nu
+eixt
+exit
+cd django
+overlay
+overlay use .venv/bin/activate.nu
+deactivate
+vim Makefile
+make activate
+vim Makefile
+make activate
+vim Makefile
+make activate
+overlay use .venv/bin/activate.nu
+rye add django
+rye sync
+django-admin startproject myweb .
+ls
+ls manage
+overlay use .venv/bin/activate.nu
+python manage.py migrate
+ls
+python manage.py runserver
+overlay use .venv/bin/activate.nu
+clear
+exit
+cd djang
+vim
+overlay use .venv/bin/activate.nu
+vim
+make activate
+overlay
+activate
+vim $nu.config-path
+activate
+source $nu.config-path
+activate
+vim $nu.config-path
+source $nu.config-path
+activate
+deactivate
+wez
+python
+clear
+brew search sql
+brew dbci
+brew search dbci
+brew search mycli
+brew install mycli
+brew search pqsl
+brew search pgcli
+brew install pgcli
+sqlite3
+ls
+sqlite3 -h
+sqlite3 --help
+ls
+vim $nu.config-path
+ls
+source $nu.config-path
+ls
+rm
+rm -rf olo
+vim $nu.config-path
+source $nu.config-path
+ls
+sqlite3
+zsh
+vim $nu.config-path
+sqlite3 db.sqlite3
+rye add djangorestframework
+activate
+rye add djangorestframework
+python manage.py -h
+django-admin
+django-admin startproject quickstart .
+python manage.py
+python manage.py startapp customers
+ls
+source $nu.config-path
+ls
+ls customers/
+ls myweb/
+ls myweb
+ls
+yazi
+adsf
+python manage.py runserver
+activate
+activate
+source $nu.config-path
+activate
+ls
+mv myweb tutorial
+cd tutorial/
+cd
+..
+cd
+cd -
+cd djag
+cd djang
+pwd
+ls
+vim
+cd tutorial
+django-admin startapp quickstart
+ls
+vim $nu.config-path
+source $nu.config-path
+vim $nu.config-path
+source $nu.config-path
+yy
+vim $nu.config-path
+source $nu.config-path
+open
+yy
+yazi
+brew search eog
+brew search eye
+clear
+ls
+cd quickstart
+ls
+cd ..
+pwd
+ls
+yazi
+pwd
+yazi
+ls
+cd tutorial/
+ls
+find
+find .
+pwd
+ls
+yazi
+python manage.py
+cd ..
+python manage.py migrate
+python manage.py createsuperuser --username admin --email admin@gmail.com
+cd tutorial/
+cd quickstart
+ls
+vim
+python manage.py runserver
+}
+python manage.py runserver
+httpie
+brew search httpie
+brew install httpie
+https httpie.io/hello
+http -a admin http://localhost:8000/users/
+http
+http -h
+which http
+brew isntall httpie
+brew install httpie
+httpie
+httpie -a http://locahost:8000/users
+https
+http
+https -a admin localhost:8000
+http -u admin localhost:8000/users
+http get -u admin localhost:8000/users
+http get --user admin http://localhost:8000/users/ 
+http get --user admin http://localhost:8000/users/
+http get --user admin http://localhost:8000/users
+which https
+/home/linuxbrew/.linuxbrew/bin/http
+/home/linuxbrew/.linuxbrew/bin/http -a admin localhost:8000/users
+/home/linuxbrew/.linuxbrew/bin/http -a admin http://127.0.0.1:8000/users/
+/home/linuxbrew/.linuxbrew/bin/http -a admin http://localhost:8000/users/
+vim $nu.config-path
+source $nu.config-path
+http
+which http
+https
+http
+http :8000
+http :8000/users
+http :8000/users -a admin
+http -a admin :8000/users/
+http -a admin :8000/users
+http -a admin :8000/users/
+vim $nu.config-path
+exa
+ls
+ll
+ls
+bat
+rg
+rg book
+rg user
+brew install bat
+bat
+rg user
+bat serializers.py
+brew install mprocs
+mprocs
+python manage.py runserver
+cargo install bacon
+mprocs python manage.py runserver
+eza
+ls
+eza
+mprocs "python manage.py runserver"
+mprocs
+mproccs
+mprocs
+clear
+source $nu.config-path
+mprocs
+cd ../..
+mprocs
+ls
+brew search wikitui
+brew info wiki
+cargo install wiki-tui<\n>
+brew search wiki
+brew info wikibase-cli
+wiki-cli
+wki
+wiki-tui
+wiki-tui "f1"
+brew search harlequin
+harlequin
+brew search harlequin
+pipx
+deactivate
+git status
+which python
+rye
+python
+cd
+python
+rye
+rye tools
+rye tools list
+btop
+rye install harlequin
+hy
+harlequin
+brew search gobang
+cargo install --version 0.1.0-alpha.5 gobang<\n>
+brew search mpv
+rye install upiano
+brew install mpv
+upiano
+brew install fluidsynth
+brew install jstkdng/programs/ueberzugpp<\n><\n>
+upiano
+brew search leetcode
+npm install -g leetcode-cli
+leetcode-clid
+leetcode-cli
+leetcode
+leetcode versionleetcode version
+leetcode version
+brew search ytfzf
+yazi
+exit
+brew 
+brew
+brew update
+zellij -v
+zellij --version
+which zellij
+ala
+vim .zshrc
+vim
+vim $nu.config-path
+source $nu.config-path
+vim $nu.config-path
+source $nu.config-path
+zellij
+exit
+ala
+clear
+exit
+vim $nu.config-env
+vim $nu.env-path
+exit
+vim
+exit
+ala
+exit
+zellij
+exit
+ala
+exit
+ala
+vim $nu.config-env
+eixt
+exit
+cd /mnt/c/Users/Asus/AppData/Roaming/alacritty/
+pwd
+git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes<\n>
+git clone https://github.com/alacritty/alacritty-theme themes
+vim $nu.config-path
+ls
+ls themes/
+exit
+ala
+vim
+exit
+upiano
+rye install textual
+rye install pyfluidsynth
+fluidsynth
+upiano
+bat /home/gthell/.rye/tools/upiano/lib/python3.12/site-packages/fluidsynth.py
+brew search fluid
+brew info fluid-synth
+brew install fluid-synth
+brew reinstall fluid-synth
+fluid-synth
+fluidsynth
+cd django
+vim
+activate
+clear
+exit
+vim
+wez
+brew search i3
+sudo apt install i3
+i3
+sudo apt install xfce4 xfce4-goodies
+sudo apt-get install xserver-xephyr
+Xephyr :1 -fullscreen<\n>
+DISPLAY=:1
+i3
+exit
+zsh
+i3
+DISPLAY=:1
+Xephyr :1 -fullscreen<\n>
+vim
+explorer.exe
+exit
+tmux
+exit
+exot
+eixt
+exit
+:w
+vim /mnt/c/Users/Asus/komorebi.json
+vim
+exit
+vim
+vim /mnt/c/Users/Asus/Documents/AutoHotkey/Untitled.ahk
+cd auto
+cd autohotkey 
+vim $(fzf)
+vim /mnt/c/Users/Asus/Documents/AutoHotkey/glazewm.ahk
+open /mnt/c/Users/Asus/Documents/AutoHotkey/
+open /mnt/c/Users/Asus/Documents/AutoHotkey
+explorer.exe /mnt/c/Users/Asus/Documents/AutoHotkey
+vim /mnt/c/Users/Asus/.glaze-wm/config.yaml
+dbl
+wez
+exit
+eixt
+clear
+xwayland
+exitt
+sudo apt-get install i3
+sudo apt-get install i3-wm dunst i3lock i3status suckless-tools<\n><\n>
+sudo apt-get install compton hsetroot rxvt-unicode xsel rofi fonts-noto fonts-mplus xsettingsd lxappearance scrot viewnior<\n><\n>
+sudo apt install xfce4 xfce4-goodies
+git clone git@github.com:Lamarcke/i3-on-wsl.git
+mv i3-on-wsl/paste-in-home/ .
+cat i3-on-wsl/
+yazi
+exec
+i3
+exxit
+exit
+i3
+sudo i3
+top
+btop
+cd
+cd learn
+ls
+cd ..
+cd
+ls
+cd
+cd rust
+cd learn
+cd ..
+ls
+cd learn-rust/
+ls
+cd ..
+mkdir learn-hy
+cd learn-hy
+rye init --virtual
+ls
+ls -a
+rye add beautifulsoup4 Flask Jinja2 Keras psycopg2
+rye sync
+rye add hy
+rye list
+rye lists
+rye 
+ls
+vim
+rye syc
+rye sync
+rye update
+vim
+activate
+activate
+vim
+vim
+cd
+yazi
+vim
+hy main.hy
+hy
+vim
+hy
+rye sync
+hy
+which hy
+vim
+hy main.hy
+vim
+hy main.hy
+vim
+leetcode
+leetcode version
+leetcode user -l
+npm uninstall leetcode
+npm uninstall leetcode-cli
+np list
+npm
+npm install -g leetcode-cli
+leetcode version
+node --trace-warnings
+node --trace-warnings ...
+leetcode version
+node --trace-warnings ...
+leetcode help
+leetcode config
+leetcode user
+leetcode user -h
+leetcode user -l
+leetcode user -l -vv 
+curl -I https://leetcode.com/accounts/login/
+npm uninstall -g leetcode-cli
+npm install -g leetcode-tools/leetcode-cli
+leetcode version
+leetcode user -c
+leetcode user
+leetcode user -h
+leetcode user -c
+leetcode user -l
+leetcode user -h
+leetcode user -g
+leetcode user -l
+leetcode user -g
+leetcode user -c
+leetcode user
+vim
+leetcode user
+leetcode ls
+cd projects/
+cd leetcode/
+ls
+leetcode
+leetcode -lh
+leetcode show 104
+leetcode show -h
+leetcode show 104 -g -l python
+ls
+vim 14
+vim 104.maximum-depth-of-binary-tree.py
+rm 872.leaf-similar-trees.py
+leetcode show 872 -g -l python
+mprocs
+leetcode show 872
+mprocs
+leetcode user
+mprocs
+leetcode test ./872.leaf-similar-trees.py -t '[3,5,1,6,2,9,8,null,null,7,4]\n[3,5,1,6,7,4,2,null,null,null,null,null,null,9,8]'
+python 872.leaf-similar-trees.py
+btop
+exit
+zellij
+xrpd
+brew search xrdp
+sudo apt install xrdp -y<\n><\n>
+sudo systemctl xrdp
+sudo systemctl status xrdp
+sudo systemctl status xrdp<\n><\n>
+sudo apt -y install xfce4<\n>
+sudo apt-get install xrdp<\n>
+sudo cp /etc/xrdp/xrdp.ini /etc/xrdp/xrdp.ini.bak<\n>
+sudo sed -i 's/3389/3390/g' /etc/xrdp/xrdp.ini<\n>
+sudo sed -i 's/max_bpp=32/#max_bpp=32\nmax_bpp=128/g' /etc/xrdp/xrdp.ini<\n>
+sudo sed -i 's/xserverbpp=24/#xserverbpp=24\nxserverbpp=128/g' /etc/xrdp/xrdp.ini<\n>
+sudo /etc/init.d/xrdp start<\n>
+sudo systemctl status xrdp
+sudo /etc/init.d/xrdp start<\n>
+sudo apt-get install dbus-x11
+sudo /etc/init.d/xrdp start<\n>
+sudo /etc/init.d/xrdp stop
+sudo /etc/init.d/xrdp start
+brew search font
+exit
+ls
+yazi
+open .
+explorer
+explorer.exe
+explorer.exe .
+brew bundle 
+brew bundle dump
+ls
+vim Brewfile
+ls
+apt list
+comm -23 <(apt-mark showmanual | sort -u) <(gzip -dc /var/log/installer/initial-status.gz | sed -n 's/^Package: //p' | sort -u)<\n>
+apt list --manual-installed 
+brew search zsh
+vim search nu
+brew search nu
+brew search nushell
+exit
+npm
+vim $nu.config-env
+vim .config/nushell/env.nu
+vi .config/nushell/env.nu
+source $nu.config-path
+npm
+vim
+vim .config/nushell/config.nu
+source $nu.env-path
+clear
+cearl
+exit
+ls
+exit
+source $nu.env-path
+source $nu.config-path
+source $nu.env-path
+source $nu.config-path
+vim $nu.config-path
+starship
+which starship
+brew uninstall starship
+ls
+yay -Q
+yay -Q | gtk3
+adf
+clear
+vim
+exit
+vim $nu.config-path
+brew install ripgrep
+vim $nu.config-path
+envycontrol
+envycontrol 
+envycontrol -q
+yay -Q | gtk3
+yay -Q | grep gtk3
+vim .gtkrc-2.0
+vim .config/i3/config
+sudo shutdown
+sudo shutdown now
+ls
+npm install -g leetcode-tools/leetcode-cli
+./utils/limitd.sh 75
+ls /mnt/wsl
+leetcode -h
+leetcode user -c "INGRESSCOOKIE=6e7f3f97368a2cd0d2f9192c8ec0260e|8e0876c7c1464cc0ac96bc2edceabd27; __cf_bm=OunJN.M3rLhn7PBIHvHd9p6ERWTBsEJxCQPxeSWtgDI-1718440750-1.0.1.1-iIucLO_J.ICDwS3fVDQBtIzT5zVgWUgP16r9XN_CDYvmo2Wt1iSgx4XLaWlJNVzZ94An7.eFeiP0nnxM3nGYaA; _gid=GA1.2.1910542285.1718440757; _gat=1; gr_user_id=42e22043-4250-4b2b-b97f-4c56b926c3b6; 87b5a3c3f1a55520_gr_session_id=dfe642c2-b159-492f-9f71-bfab6fc56cbe; 87b5a3c3f1a55520_gr_session_id_sent_vst=dfe642c2-b159-492f-9f71-bfab6fc56cbe; cf_clearance=pPN2_3BMwsH3QkrBR5TV3CsddjBg_NB5MXIOfT8L5As-1718440768-1.0.1.1-oQsMq5.ri43e0S6vPxiHC4zmAPXhNeRomQerAddttEDGGbqoiWhmBcLEKxS7TDUgdPqfMSEyh8GjB8G4sW65Fw; _dd_s=rum=0&expire=1718441674287; csrftoken=VZ274DQnMPP85A6oVMeePCdcYu4NxpItKqD8rF2ABTxJYrd5p2de3PJDMKSBgouk; messages=W1siX19qc29uX21lc3NhZ2UiLDAsMjUsIlN1Y2Nlc3NmdWxseSBzaWduZWQgaW4gYXMgb3VkYW1zZXRoLiJdXQ:1sIOwk:mXf5DYad-dBD9zfcz2EKxH8qlBcEGUg7uskHJbnlo1U; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMTIxOTg5MCIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImFsbGF1dGguYWNjb3VudC5hdXRoX2JhY2tlbmRzLkF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6IjE3MzRjOWIyZDZlN2VhYzQzZTIzM2ViODM5Y2JkMzAwMmYxMmFjMGJkMDdkODczNGJmZmIxZGVlMTQ5NmJlMjIiLCJpZCI6MTIxOTg5MCwiZW1haWwiOiJzb3N4cmFkYXJAZ21haWwuY29tIiwidXNlcm5hbWUiOiJvdWRhbXNldGgiLCJ1c2VyX3NsdWciOiJvdWRhbXNldGgiLCJhdmF0YXIiOiJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvb3VkYW1zZXRoL2F2YXRhcl8xNzE1NjMyMjI4LnBuZyIsInJlZnJlc2hlZF9hdCI6MTcxODQ0MDc3OCwiaXAiOiIyMDkuMTQ2LjYxLjEzNCIsImlkZW50aXR5IjoiNTRiZjlmNmU3NWU3OGQ5OTc2NGNkMGRlMzE4YzhlZWYiLCJzZXNzaW9uX2lkIjo2MzYyMTM3M30.6y6rtjyY0DGdyELVrgcRaYZps2wTgUCcmIfVtjeD_5c; _ga=GA1.1.2072590988.1718440757; _ga_CDRWKZTDEX=GS1.1.1718440756.1.1.1718440798.18.0.0<\n><\n><\n>"
+leetcode user
+bash
+cp /mnt/os/Users/Asus/AppData/Roaming/alacritty/ .config/
+cp -r /mnt/os/Users/Asus/AppData/Roaming/alacritty/ .config/
+vim .config/alacritty/alacritty.toml
+ls .config/alacritty/
+ll .config/alacritty/
+ls -l .config/alacritty/
+vim .config/alacritty/alacritty.toml
+vim
+clear
+vim
+.screenlayout/monitor.sh
+clear
+vim .config/alacritty/alacritty.toml
+exit
+alacritty
+pwd
+sudo mkdir /media/gamedisk
+sudo mkdir /media
+sudo mkdir /media/gamedisk
+id -U
+id -u
+id -g
+sudo fdisk -l
+yay telegram
+flatpak install flathub org.telegram.desktop
+sudo reboot
+flatpak install flathub org.telegram.desktop
+yay lutrist
+vim .config/alacritty/alacritty.toml
+yay lutris
+vim .Xresources
+brew search xclip
+brew install xclip
+vim .Xresources
+xrandr --dpi 220
+xrandr --dpi 240
+xrandr --dpi 500
+xrandr --dpi 10
+xrandr --dpi 170
+xrandr --dpi 120
+xrandr --dpi 110
+xrandr --dpi 120
+xrandr
+vim .config/i3/config
+vim .Xresources
+vim
+vim .Xresources
+pacman -Q
+pacman -Q | grep nvidia
+nvidia-installer-check
+nvidia-inst
+nvidia-inst -h
+pacman -Q
+pacman -Q | grep nvidia
+nvidia-settings -h
+pacman -Q | grep nvidia
+nvidia-utils -h
+envyc
+envycontrol -h
+encycontrol -q
+envycontrol -q
+vim /etc/X11/xorg.conf.d/00-keyboard.conf
+nvidia-inst -h
+nvidia-inst --drivers
+nvidia-inst -t
+nvidia -v
+yey nvidia
+yay nvidia
+yay mime
+gio mime
+gio mime text/html
+exit
+zellij
+alacritty
+powerprofilesctl get
+rye
+powerprofilesctl get
+rye install Gio GLib
+rye install Gio
+rye install GLib
+powerprofilesctl get
+thermald
+sudo pacman -S --need thermald
+thermald
+sudo cp /usr/lib/systemd/system/thermald.service /etc/systemd/system/
+sudo vim /etc/systemd/system/thermald.service
+man thermald
+sudo systemctl enable thermald
+yay vial
+nvtop
+yay nvtop
+nvtop
+nvidia-smi
+sudo systemctl mask power-profiles-daemon<\n><\n>
+exit
+exti
+exit
+exit
+ls
+pwpd
+exit
+zellij
+exit
+alacritty
+vim
+vim .config/alacritty/alacritty.toml
+vim .Xresources
+sudo reboot
+vim .Xresources
+vim
+sudo reboot
+xrandr --dpi 96
+vim .Xresources
+sudo reboot
+vl
+vim .Xresources
+sudo reboot
+vim .Xresources
+sudo reboot
+vim .Xresources
+sudo reboot
+flatpak install flathub net.davidotek.pupgui2
+flatpak install flathub com.github.Matoking.protontricks
+zellij list-session
+zellij list-sessions
+zellij ls
+vim .config/alacritty/alacritty.toml
+yay wine
+yay winetrick
+winetrick
+wine
+wine --version
+winetrics
+winetricks
+winetricks --version
+wine --version
+mkdir ./.config/picom
+cp .config/example.picom.conf .config/picom/
+vim .config/example.picom.conf
+cp .config/picom/example.picom.conf .config/picom/picom.conf
+picom
+picom -h
+flatpak list
+flatpak list | grep lutrist
+flatpak list | grep lutris
+which lutris
+sudo reboot
+picom --config ~/.config/picom/picom.conf
+vim .config/picom/picom.conf
+exit
+sudo reboot
+pkill picom
+picom
+picom -h
+picom -b
+pkill picom
+vim utils/restart-picom.sh
+chmod +x utils/restart-picom.sh
+./utils/restart-picom.sh
+vim .config/i3/keybindings
+picom -b
+vim .config/picom/picom.conf
+pkill picom
+picom -b
+sudo shutdown now
+powerprofilesctl get
+which python
+python 
+rye install PyGObject
+powerprofilesctl set power-saver<\n>
+$EDITOR
+vim .zshrc
+zsh
+bash
+brew search zsh
+vim .zshrc
+brew install zsh
+pacman -S rog-control-center<\n>
+sudo pacman -S rog-control-center
+man nvidia-dkms
+nvidia-dkms -h
+yay rog
+supergfxctl
+which supergfxctl
+yay rog-control-center
+asusctl
+yay asusctl
+yay seat
+yay seatd
+yay asusctl
+yay seatd
+seatd
+which seatd
+ls /usr/lib/pkgconfig/
+ls /usr/lib/pkgconfig | grep seat
+vim $nu.env-path
+source $nu.config-path
+source $nu.env-path
+$PKG_CONFIG_PATH
+echo
+echo $PATH
+echo $env.PATH
+echo $env.PKG_CONFIG_PATH
+yay asusctl
+yay rog-control-center
+asusctl
+asusctl bios
+asusctl bios -d
+asusctl bios -o
+powerprofilesctl launch  make
+python
+python -c "import gi; print(gi.__spec__)"
+pip install PyGObject
+pip3
+pip3 install PyGObject
+rye install PyGObject
+python -c "import gi; print(gi.__spec__)"
+rye add pygobject<\n>
+rye installpygobject<\n>
+rye install pygobject<\n>
+python -c "import gi; print(gi.__spec__)"
+rye install pycairo
+python -c "import gi; print(gi.__spec__)"
+yay cairo
+yay libxt
+yay gobject
+python -c "import gi; print(gi.__spec__)"
+rye install pycairo pygobject
+rye install pycairo 
+rye install pygobject
+sudo reboot
+vim .config/rofi/power-profiles.rasi
+asusctl
+asusctl -s
+powerprofilesctl list
+asusctl
+asusctl profile
+asusctl profile -l
+asusctl profile -p
+sudo powertop
+yay powertop
+sudo powertop
+sudo reboot
+zellij -h
+zellij -ls
+zellij -l
+exit
+zellij setup
+zellij plugin
+zellij plugin -
+zellij plugin -h
+vim .Xresources
+bluemoon 
+blueman-services 
+sudo reboot
+vim .Xresources
+exit
+vim .config/i3
+vim
+python -c "import gi; print(gi.__spec__)"
+picom -b
+which edge
+flatpak list | grep edge
+flatpak list 
+edge
+flatpak list | grep Edge
+com.microsoft.Edge 
+com.microsoft.Edge -h
+vim .config/alacritty/alacritty.toml
+bat .Xresources
+bat .config/gtk-3.0/settings.ini
+vim .config/alacritty/alacritty.toml
+which nu
+ls Pictures/
+vim 
+sudo reboot
+conky
+yay conky
+conky
+ps
+ps | grep Thunar
+ps | grep thunar
+yay nerd
+yay terminus
+yay terminusnerd
+yay terminus-nerd
+yay noto
+yay jetbrains
+vim .config/alacritty/alacritty.toml
+yay 0x
+yay 0xproto
+vim .config/alacritty/alacritty.toml
+yay source
+yay "source code pro"
+vim .config/alacritty/alacritty.toml
+ls /usr/share/fonts/
+ls /usr/share/fonts/TTF/
+vim .config/alacritty/alacritty.toml
+vim
+sudo reboot
+vim
+sudo reboot
+setxkbmap
+setxkbmap -h
+setxkbmap --help
+man setxkbmap
+setxkbmap --querty
+setxkbmap --query
+setxkbmap -query
+setxkbmap -layout 'us,kh'
+setxkbmap -query
+setxkbmap -option 'grp:alt_caps_toggle'
+setxkbmap -query
+neofetch
+vim .config/alacritty/alacritty.toml
+bitwarden
+i3
+i3-msg
+i3-msg reload
+xkblayout-state print
+yay xkblayout
+xkblayout 
+xkblayout-state
+yay xkblayout-state
+xkblayout-state
+xkblayout-state print
+xkblayout-state print %s
+xkblayout-state print %N
+powerprofilesctl list
+powerprofilesctl launch make<\n>
+which python
+python -c "import gi; print(gi.__spec__)"
+rye 
+rye list
+rye toolchain list
+rye tools list
+gio
+gio monitor
+yay glib
+i3-msg reload
+i3-msg -h
+man i3-msg
+i3bar
+killall i3bar
+i3bar
+yay fastfetch
+fastfetch
+yay neofetch
+neofetch
+fastfetch
+neofetch
+fastfetch
+neofetch
+fastfetch
+neofetch
+clear
+neofetch
+clear
+fastfetch
+vim
+i3bar
+vim
+lm-sensors
+yay lm-sensors
+lm-sensors
+asusctl profile -p
+asusctl profile
+asusctl profile -l
+asusctl profile -P
+asusctl profile -P quiet
+asusctl profile -l
+asusctl profile -p
+asusctl profile -PP Balanced
+asusctl profile -P Balanced
+asusctl
+asusctl bios
+asusctl bios -o
+asusctl bios -d
+supergfxctl
+supergfxctl -v
+supergfxctl -g
+supergfxctl -gs
+supergfxctl -s
+supergfxctl -gs
+supergfxctl -gsS
+supergfxctl -p
+supergfxctl -P
+supergfxctl 
+supergfxctl -m
+supergfxctl -V
+supergfxctl -s
+vim .config/i3/i3blocks.conf
+flatpak list | grep lutrist
+flatpak list | grep lutris
+flatpak list | grep Lutris
+which lutris
+yay heroic
+which wine
+wine
+yay wine
+yay "wine staging"
+yay wine
+yay proton
+yay battleye
+yay battle
+yay mangohud
+yay gamemode
+yay dxvk
+yay vk
+yay dxvk
+yay vulkan
+yay vulkan-icd
+yay lib32-vulkan
+yay nvidia-utils
+yay lib32-nvidia
+yay vulkan-sw
+ls /usr/share/vulkan/icd.d/
+yay vulkan-tools
+vulkaninfo
+optimus-manager
+echo $env.VK_DRIVER_FILE
+vim $nu.env-path
+ls /usr/share/vulkan/icd.d/
+source $nu.env-path
+asusctl 
+asusctl led-pow-1
+asusctl profile
+asusctl profile -p
+asusctl profile -pn
+asusctl profile -n
+asusctl profile -l
+asusctl profile -P quiet
+asusctl profile -p
+pacman -Q | grep -E "vulkan|nvidia|mesa"
+yay -R vulkan-nouveau
+yay -R lib32-vulkan-nouveau
+pacman -Q | grep -E "vulkan|nvidia|mesa"
+yay -R vulkan-nouveau
+pacman -Q | grep -E "vulkan|nvidia|mesa"
+neofetch
+fastfetch
+asusctl profile -p
+killall i3bar
+i3bar
+cd .config/rofi
+ls
+vim .
+i3bar
+python
+which python
+cd ..
+cd i3
+cd
+cd .config/i3/scripts/
+ls
+asus-powermenu
+./asus-powermenu
+ls -l asus-powermenu
+./asus-powermenu
+i3bar
+xrandr
+asusctl profile -p
+asusctl profile -P performance
+asusctl profile -p
+xrandr --rate 170
+asusctl profile -P quiet
+asusctl profile -p
+picom -b
+cd 
+systemctl shutdown
+systemctl reboot
+vim
+cd .config/i3
+vim
+systemctl reboot
+yay hhkb
+hhkb
+whoami
+ls
+pwd
+xrandr
+vim .screenlayout/monitor.sh
+xrandr --output HDMI-0 --primary --mode 1920x1080 --rate 170
+xrandr
+vim .screenlayout/monitor.sh
+vim .screenlayout/monitor.sh
+xrandr --output HDMI-0 --primary --mode 1920x1080 --rate 170
+xrandr --output HDMI-0 --primary --mode 1920x1080 --rate 170 --preferred
+xrandr
+man xrandr
+vim /etc/X11/xorg.conf.d/00-keyboard.conf
+xrandr
+xrandr --delmode HDMI-0 1920x1080_60.00
+xrandr --preferred --output HDMI-0 --primary --mode 1920x1080_170.0 --rate 170
+xrandr --output HDMI-0 --primary --mode 1920x1080_170.0 --rate 170 --preferred 
+xrandr --output HDMI-0 --primary --mode 1920x1080_170.0 --rate 170
+xrandr
+xrandr --output HDMI-0 --primary --mode 1920x1080 --rate 170
+xrandr
+process
+btop
+rofi
+asusctl profile -l
+vim .
+sudo shutdown now
+sudo reboot
+fastfetch
+clear
+neofetch
+exit
+neofetch
+clear
+neofetch
+vim $nu.env-path
+btop
+sudo reboot
+systemctl reboot
+vim
+cd .config/i3
+vim
+${!default_menu_options[@]}
+asusctl profile -l
+powerprofilesctl
+asusctl list
+asusctl profile
+asusctl profile -l
+asusctl profile -l | grep -q "grep_args"
+grep -h
+man grap
+man grep
+asusctl profile -l | grep -q "quiet"
+asusctl profile
+ls
+bash
+command_exists
+exit
+asusctl profile -P balanced
+asusctl profile -p
+asusctl profile -P quiet
+yay neovide
+cd
+mkdir .config/neovide
+neovide .config/neovide/config.toml
+neovide
+vim .config/i3/config
+vim
+bat /usr/share/fonts/TTF/
+ll 
+ls /usr/share/fonts/TTF
+neovide
+vim
+vim .config/alacritty/alacritty.toml
+ls
+systemctl poweroff
+vim .config/alacritty/alacritty.toml
+vim
+df -h
+df -H
+sudo mount -t ntfs /dev/nvme0n1p3 /mnt/os
+xrandr
+xrandr --output DP-2 --rate 144.06
+xrandr --output DP-2 --rate 144
+vim .screenlayout/monitor_builtin.sh
+xrandr --output DP-2 --primary --mode 1920x1080 --rate 144.06
+xrandr
+                 xrandr
+systemctl reboot
+xrandr
+vim
+vim .config/alacritty/alacritty.toml
+systemctl reboot
+shutdown now
+sudo reboot
+systemctl reboot
+id -u
+id -g
+sudo blkid
+vi
+vi --version
+vi -v
+vim --version
+yay vim
+nvim $nu.env-path
+source $nu.config-path
+vi
+vim
+vim $nu.config-path
+vim
+nvim $nu.env-path
+source $nu.env-path
+ls
+pwd
+sudo blkid
+nvim $nu.env-path
+sudo blkid
+fdisk
+sudo vim /etc/fstab
+sudo nvim /etc/fstab
+vim $nu.config-path
+vim $nu.env-path
+vim
+vim $nu.env-path
+sudo blkid 
+sudo vim /etc/fstab
+sudo blkid
+gid
+id -g
+id -u
+sudo nvim /etc/fstab
+systemctl reboot
+ls
+yazi
+clear
+neofetch
+vim
+vim .config/i3/cofnig
+vim
+ls
+neofetch
+ls 
+fastfetch
+clear
+fastfetch
+yazi 
+nm-applet
+nm-applet -h
+vim .config/alacritty/alacritty.toml
+vim
+yay noto
+less /usr/share/fonts/TTF/
+ls /usr/share/fonts/TTF
+ls /usr/share/fonts/TTF | more
+ls /usr/share/fonts/TTF
+vim
+vim .config/alacritty/alacritty.toml
+vim
+clear
+vim
+yay losoveka
+yay losevka
+yay iosevka
+yay iosevka-nerd
+vim .config/alacritty/alacritty.toml
+vim .config/picom/picom.conf
+ls
+btop
+vim .config/alacritty/alacritty.toml
+picom -b
+asusctl
+asusctl fan-curve
+asusctl fan-curve -D
+asusctl fan-curve -D --mod-profile
+asusctl fan-curve -g
+yay iosevkaterm
+vim .config/alacritty/alacritty.toml
+vim
+yay firacode
+vim .config/alacritty/alacritty.toml
+asusctl fan-curve -g
+asusctl
+asusctl -}
+asusctl -s
+supergfxctl -}
+supergfxctl -s
+supergfxctl
+supergfxctl -g
+supergfxctl
+supergfxctl -m
+supergfxctl -S
+supergfxctl -V
+supergfxctl -p
+supergfxctl -h
+supergfxctl -m
+supergfxctl -s
+nvidia-settings 
+yay khmer
+nvidia-driver-supported-branches  
+nvidia-driver-supported-branches  -h
+nvidia-driver-supported-branches
+nvidia
+nvidia-msi -h
+nvidia-smi -h
+nvidia-settings -h
+man .nvidia-settings
+man .nvidia-setting
+man nvidia-setting
+man nvidia-settings
+nvidia-xconfig 
+nvidia-inst -h
+envycontrol
+envycontrol -q
+systemctl reboot
+btop
+pkill conky
+btop
+supergfxctl -s
+vim .config/i3/config
+yay obin
+xrandr
+systemctl status
+fc-list 
+yay khmer
+fc-list
+vim .config/alacritty/alacritty.toml
+cleare
+clear
+neofetch
+clear
+fastfetch
+breww list
+brew list
+cleare
+fastfetchh
+fastfetch
+clear
+fastfetch
+systemctl turnoff
+systemctl poweroff
+systemctl status poweroff.target
+envycontrol -q
+envycontrol
+supergfxctl -s
+asusctl
+asusctl graphics
+asusctl 
+powerprofilesctl
+pacman -Qikk python-gobject python
+python -c "import gi; print(gi.__spec__)"
+uname -r
+uname
+asusctl
+asusctl profile -p
+asusctl profile
+asusctl profile -l
+asusctl
+asusctl -s
+asusctl
+asusctl bios
+asusctl bios -o
+asusctl bios -d
+asusctl profile
+uname
+yay rog
+yay rog-
+rog-profile
+rog-profile -g
+sudo systemctl start rog-daemon
+sudo systemctl enable rog-daemon
+rog-profile -g
+rog-mux
+rog-mux -g
+uname
+yay rog-
+yay -R rog-control-center
+vim 
+yay rog-
+mangohud
+fc-match -v Arial
+sudo pacman -S --needed nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
+vim
+nvidia-smi
+neofetch
+clear
+fastfetch
+yay samba
+samba
+yay hhkb
+yay redshift
+hhg
+hhg -d
+hhg -k
+hhg
+hhg -m
+sudo reboot
+mangohud
+mangohud -h
+man mangohud
+sudo sysctl -w kernel.split_lock_mitigate=0<\n>
+yay polybar
+btop
+vim
+vim 
+vim
+vim .config/i3/i3blocks.conf
+neofetch
+vim
+vim .config/alacritty/alacritty.toml
+neofetch
+neofetch
+vim
+yay wezterm
+vim .config/alacritty/alacritty.toml
+clear
+neofetch
+neofetch
+clear
+neofetch
+clear
+neofetch
+clearn
+clear
+neofetch
+vim .config/alacritty/alacritty.toml
+vim
+clear
+neofetch
+fc-match -v notosansm
+fc-list
+vim .config/alacritty/alacritty.toml
+vim
+yay sauce
+vim .config/alacritty/alacritty.toml
+neofetch
+clear
+fastfetch -h
+fastfetch
+clear
+fastfetch
+vim .config/zellij/config.kdl
+neofetch
+vim $nu.config-path
+clear
+neofetch
+vim .config/alacritty/alacritty.toml
+clear
+neofetch
+clear
+clear
+neofetch
+neofetch
+vim .config/alacritty/alacritty.toml
+clear
+neofetch
+clear
+neofetch
+vim .config/alacritty/alacritty.toml
+clear
+neofetch
+vim
+clear
+exit
+zellij options --theme
+exit
+zellij options
+zellij options --h
+zellij setup --check
+fastfetch
+vim $nu.config-path
+fastfetch -h
+fastfetch --localip-show-ipv4
+fastfetch --localip-compact true
+fastfetch
+mkdir .config/fastfetch
+cd .config/fastfetch
+fastfetch -c .config/fastfetch/archey.jsonc
+fastfetch
+fastfetch -c .config/fastfetch/archey.jsonc
+vim .
+rm -rf archey.jsonc
+wget -h
+wget https://raw.githubusercontent.com/fastfetch-cli/fastfetch/dev/presets/archey.jsonc -o archey.jsonc
+ls
+vim archey.jsonc
+rm -rf *
+ls
+wget https://raw.githubusercontent.com/fastfetch-cli/fastfetch/dev/presets/archey.jsonc
+ls
+bat archey.jsonc
+fastfetch -c .config/fastfetch/archey.jsonc
+r1
+fastfetch -c .config/fastfetch/archey.jsonc
+fastfetch
+fastfetch -c .config/fastfetch/archey.jsonc
+kj
+fastfetch -c .config/fastfetch/archey.jsonc
+clear
+fastfetch -c .config/fastfetch/archey.jsonc
+clear
+asdf
+clear
+fastfetch -c .config/fastfetch/archey.jsonc
+vim $nu.config-path
+yay xborder
+xborder
+sudo reboot
+xborders -h
+xborders-radius 7
+xborders --border-radius 7
+vim .config/picom/
+xborders --border-radius 7
+xborders -h
+xborders --border-radius 7 --border-width 2
+xborders --border-radius 7 --border-width 1
+xborders --border-radius 7 --border-width 1.5
+xborders --border-radius 7 --border-width 2
+xborders --border-radius 7 --border-width 1
+xborders --border-radius 7 --border-width 2
+xborders -h
+vim .config/i3/config
+sudo reboot
+y 
+y
+asusctl profile
+asusctl 
+asusctl fan-curve -g
+vim .config/alacritty/alacritty.toml
+vim .config/zellij/config.kdl
+                 exit
+exit
+exit
+pwd
+mkdir .config/wezterm
+cp /media/gamedisk/.wezterm .config/wezterm/
+cp /media/gamedisk/.wezterm.lua .config/wezterm/
+vim .config/wezterm/.wezterm.lua
+mv .config/wezterm/.wezterm.lua .config/wezterm/wezterm.lua
+wezterm
+zsh
+vim .config/wezterm/wezterm.lua
+vim .config/picom/picom.conf
+vim .config/wezterm/wezterm.lua
+vim .config/i3/config
+vim .config/picom/picom.conf
+vim 
+vim
+vim .config/wezterm/wezterm.lua
+vim
+vim
+vim .config/wezterm/wezterm.lua
+zsh
+chsh -s /usr/bin/zsh
+which zsh
+sudo vim /etc/shell
+sudo vim /etc/shells
+chsh -s /usr/bin/zsh
+chsh -s /home/linuxbrew/.linuxbrew/bin/zsh
+systemctl reboot
+ls
+activate
+exit
+brew list | grep zsh
+brew uninstall zsh
+which zsh
+ls
+brew uninstall zsh
+bat /etc/shells
+zsh
+yay zsh
+whcih zsh
+which zsh
+cp .zshrc .zshrc.l
+autoload -Uz zsh-newuser-install
+zsh
+zsh-newuser-install -f
+zsh
+bash
+cat .bashrc
+cat .bash_profile
+which zsh
+chsh -s /usr/bin/zsh

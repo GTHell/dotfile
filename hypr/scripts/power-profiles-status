@@ -1,0 +1,7 @@
+# !/usr/bin/bash
+
+# current_profile=$(/usr/bin/powerprofilesctl get)
+current_profile=$(asusctl profile -p)
+# get only the profile name using awk
+profile=$(echo "$current_profile" | awk 'END{print $NF}')
+echo "$profile"

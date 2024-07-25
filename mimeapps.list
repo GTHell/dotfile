@@ -1,0 +1,11 @@
+[Default Applications]
+text/html=edge.desktop
+application/xhtml+xml=edge.desktop
+application/x-vhdx-disk=thunar-settings.desktop
+x-scheme-handler/eclipse+command=_usr_lib_dbeaver_.desktop
+x-scheme-handler/postman=Postman.desktop
+
+[Added Associations]
+application/x-vhdx-disk=thunar-settings.desktop;
+image/png=feh.desktop;
+image/jpeg=feh.desktop;

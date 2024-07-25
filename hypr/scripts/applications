@@ -1,0 +1,5 @@
+# !/usr/bin/env bash
+
+# wofi menu applications
+
+wofi --show=dmenu --style=$HOME/.config/wofi/style.css --prompt="Applications" --cache-file=$HOME/.config/wofi/cache/applications --columns=1 --lines=10

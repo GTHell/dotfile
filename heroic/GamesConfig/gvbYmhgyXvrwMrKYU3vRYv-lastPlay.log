@@ -1,0 +1,107 @@
+Launching "Ubisoft Connect" (sideload)
+Native? No
+Installed in: /home/sith/Games/Heroic/Prefixes/default/Ubisoft Connect/drive_c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher
+
+System Info:
+CPU: 20x 12th Gen Intel(R) Core(TM) i7-12700H
+Memory: 33.26 GB (used: 6.83 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation AD106M [GeForce RTX 4070 Max-Q / Mobile]
+    IDs: D=2860 V=10de SD=275d SV=1043
+    Driver: nvidia
+  GPU 1:
+    Name: Intel Corporation Alder Lake-P GT2 [Iris Xe Graphics]
+    IDs: D=46a6 V=8086 SD=275d SV=1043
+    Driver: i915
+OS: EndeavourOS 6.9.4-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.14.1 Flame Emperor Sabo
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.1
+  Nile: 1.0.2 Jonathan Joestar
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallDxvkNvapi": true,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"enableEsync": true,
+	"enableMsync": false,
+	"enableFsync": true,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"showMangohud": true,
+	"useGameMode": true,
+	"battlEyeRuntime": true,
+	"eacRuntime": true,
+	"language": "",
+	"beforeLaunchScriptPath": "",
+	"afterLaunchScriptPath": "",
+	"wineVersion": {
+		"bin": "/home/sith/.local/share/lutris/runners/wine/wine-ge-8-26-x86_64/bin/wine",
+		"name": "Wine - wine-ge-8-26-x86_64",
+		"type": "wine",
+		"lib": "/home/sith/.local/share/lutris/runners/wine/wine-ge-8-26-x86_64/lib64",
+		"lib32": "/home/sith/.local/share/lutris/runners/wine/wine-ge-8-26-x86_64/lib",
+		"wineserver": "/home/sith/.local/share/lutris/runners/wine/wine-ge-8-26-x86_64/bin/wineserver"
+	},
+	"winePrefix": "/home/sith/Games/Heroic/Prefixes/default/Ubisoft Connect",
+	"wineCrossoverBottle": ""
+}
+
+Game launched at: Mon Jun 17 2024 06:36:17 GMT+0700 (Indochina Time)
+
+Winetricks packages: 
+
+ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_dlsym.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_opengl.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_dlsym.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_opengl.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+fsync: up and running.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+002c:fixme:winediag:LdrInitializeThunk wine-staging 8.0 is a testing version containing experimental patches.
+002c:fixme:winediag:LdrInitializeThunk Please mention your exact version when filing bug reports on winehq.org.
+002c:err:wineboot:process_run_key Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (126).
+0074:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+0074:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+0074:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+0074:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+008c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+008c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_dlsym.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_opengl.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+00d8:err:module:hacks_init HACK: Simulating sched quantum in fsync.
+00d8:err:winediag:process_attach Failed to load libgnutls, secure connections will not be available.
+00d8:err:secur32:SECUR32_initSchannelSP no schannel support, expect problems
+00d8:err:ntlm:ntlm_LsaApInitializePackage no NTLM support, expect problems
+00d8:err:winediag:gnutls_process_attach failed to load libgnutls, no support for encryption
+00d8:err:winediag:process_attach failed to load libgnutls, no support for pfx import/export
+00e0:err:explorer:start_tabtip_process Couldn't start tabtip.exe: error 2
+info:  Game: upc.exe
+info:  DXVK: v2.3.1
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fa838c0
+info:  Built-in extension providers:
+info:    Win32 WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+00d8:err:vulkan:wine_vkCreateInstance Failed to create instance, res=-9
+terminate called after throwing an instance of 'dxvk::DxvkError'
+00d8:fixme:msvcrt:__clean_type_info_names_internal (1000B488) stub
+gamemodeauto: 
+============= End of log =============

@@ -1,0 +1,2 @@
+2024/06/30-15:49:09.330 2372e Creating DB /home/sith/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb since it was missing.
+2024/06/30-15:49:09.342 2372e Reusing MANIFEST /home/sith/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001

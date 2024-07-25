@@ -1,0 +1,186 @@
+(15:45:52) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(15:45:52) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(15:45:52) INFO:    [Connection]:       Connectivity: check-online
+(15:45:52) INFO:    [Connection]:       Pinging external endpoints
+(15:45:52) INFO:    [Gog]:              Checking for existing gog manifests
+(15:45:52) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "status": "new",
+    "title": "Widevine Content Decryption Module",
+    "version": "4.10.2710.0"
+  }
+}
+(15:45:52) WARNING: [Backend]:          Protocol already registered.
+(15:45:52) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(15:45:52) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/sith/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/sith/.config/heroic/gog_store/auth.json --version
+(15:45:52) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/sith/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(15:45:52) INFO:    [Backend]:          
+System Information:
+CPU: 20x 12th Gen Intel(R) Core(TM) i7-12700H
+Memory: 33.26 GB (used: 12.11 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation AD106M [GeForce RTX 4070 Max-Q / Mobile]
+    IDs: D=2860 V=10de SD=275d SV=1043
+    Driver: nvidia
+  GPU 1:
+    Name: Intel Corporation Alder Lake-P GT2 [Iris Xe Graphics]
+    IDs: D=46a6 V=8086 SD=275d SV=1043
+    Driver: i915
+OS: EndeavourOS 6.9.7-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.14.1 Flame Emperor Sabo
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.1
+  Nile: 1.0.2 Jonathan Joestar
+
+(15:45:53) INFO:    [Connection]:       Connectivity: online
+(15:45:53) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/sith/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/sith/.config/heroic/gog_store/auth.json auth
+(15:45:53) INFO:    [Backend]:          User Not Found, removing it from Store
+(15:45:53) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(15:45:53) INFO:    [Backend]:          Frontend Ready
+(15:45:53) INFO:    [Backend]:          Checking for new Heroic Updates
+(15:45:53) INFO:    [Backend]:          Checking for current version changelog
+(15:45:53) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(15:45:55) INFO:    [Winetricks]:       Downloading Winetricks
+(15:45:57) INFO:    [WineDownloader]:   Updating wine versions info
+(15:45:57) INFO:    [WineDownloader]:   Fetching upstream information...
+(15:45:58) INFO:    [Backend]:          Starting the Download Queue
+(15:45:59) INFO:    [WineDownloader]:   wine versions updated
+(15:47:11) INFO:    [Legendary]:        Logging in: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(15:47:13) INFO:    [Frontend]:         Refreshing legendary Library
+(15:47:13) INFO:    [Legendary]:        Refreshing library...
+(15:47:13) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:47:13) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:47:22) INFO:    [Legendary]:        Game list updated, got 165 games & DLCs
+(15:47:22) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(15:47:22) INFO:    [Legendary]:        Refreshing library...
+(15:47:22) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:47:23) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:47:27) INFO:    [Legendary]:        Game list updated, got 165 games & DLCs
+(15:47:27) INFO:    [Frontend]:         Force Update
+(15:47:32) INFO:    [Frontend]:         Refreshing undefined Library
+(15:47:32) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(15:47:32) INFO:    [Legendary]:        Refreshing library...
+(15:47:32) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:47:32) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:47:36) INFO:    [Legendary]:        Game list updated, got 165 games & DLCs
+(15:48:01) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Hand of Fate 2
+(15:48:01) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Hand of Fate 2
+(15:48:01) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Hand of Fate 2
+(15:48:01) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Hand of Fate 2
+(15:48:01) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Hand of Fate 2
+(15:48:01) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Hand of Fate 2
+(15:48:01) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Hand of Fate 2
+(15:48:01) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Hand of Fate 2
+(15:48:01) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(15:48:01) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(15:48:01) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 808f0dfbf3b84c2680793724d7f207bf --json --platform Windows
+(15:48:01) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:01) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 808f0dfbf3b84c2680793724d7f207bf --json --platform Windows
+(15:48:02) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:02) ERROR:   [Legendary]:        Error Getting Info from Epic API
+(15:48:04) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(15:48:05) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 808f0dfbf3b84c2680793724d7f207bf --json --platform Windows
+(15:48:05) DEBUG:   [Backend]:          ProtonDB data for 456670 {"bestReportedTier":"platinum","confidence":"low","score":0.57,"tier":"platinum","total":5,"trendingTier":"platinum"}
+(15:48:05) DEBUG:   [Backend]:          SteamDeck data for 456670 {"success":1,"results":{"appid":456670,"resolved_category":3,"resolved_items":[{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(15:48:05) DEBUG:   [Backend]:          ProtonDB data for 456670 {"bestReportedTier":"platinum","confidence":"low","score":0.57,"tier":"platinum","total":5,"trendingTier":"platinum"}
+(15:48:06) DEBUG:   [Backend]:          SteamDeck data for 456670 {"success":1,"results":{"appid":456670,"resolved_category":3,"resolved_items":[{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(15:48:09) INFO:    [Backend]:          Writing config for 808f0dfbf3b84c2680793724d7f207bf
+(15:48:09) INFO:    [Backend]:          Changed config: winePrefix from /home/sith/Games/Heroic/Prefixes/default to /home/sith/Games/Heroic/Prefixes/default/Hand of Fate 2
+(15:48:09) INFO:    [Backend]:          Changed config: wineCrossoverBottle from undefined to 
+(15:48:23) INFO:    [Legendary]:        Importing 808f0dfbf3b84c2680793724d7f207bf.
+(15:48:23) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary import 808f0dfbf3b84c2680793724d7f207bf /media/gamedisk/linux_games/HandOfFate2 --with-dlcs --platform Windows
+(15:48:23) INFO:    [Backend]:          Preventing machine to sleep
+(15:48:23) DEBUG:   [Legendary]:        Using cached install info
+(15:48:23) DEBUG:   [Legendary]:        Using cached install info
+(15:48:23) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:24) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:24) ERROR:   [Legendary]:        Error Getting Info from Epic API
+(15:48:25) INFO:    [Backend]:          Adding shortcuts for Hand of Fate 2
+(15:48:25) INFO:    [Backend]:          imported Hand of Fate 2
+(15:48:25) INFO:    [Frontend]:         Refreshing legendary Library
+(15:48:25) INFO:    [Legendary]:        Refreshing library...
+(15:48:25) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:48:25) DEBUG:   [Legendary]:        Using cached install info
+(15:48:25) DEBUG:   [Legendary]:        Using cached install info
+(15:48:25) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:25) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/sith/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:48:25) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:25) ERROR:   [Legendary]:        Error Getting Info from Epic API
+(15:48:29) INFO:    [Legendary]:        Game list updated, got 165 games & DLCs
+(15:48:29) DEBUG:   [Legendary]:        Using cached install info
+(15:48:29) DEBUG:   [Legendary]:        Using cached install info
+(15:48:29) DEBUG:   [Legendary]:        Using cached install info
+(15:48:29) DEBUG:   [Legendary]:        Using cached install info
+(15:48:29) INFO:    [DownloadManager]:  Downloader: Finished downloading https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HandofFate2_DefiantDevelopment_S2_1200x1600-30c02fa77e675a39bbdfa5c0fab19894
+(15:48:29) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:29) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:30) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:30) ERROR:   [Legendary]:        Error Getting Info from Epic API
+(15:48:30) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(15:48:30) ERROR:   [Legendary]:        Error Getting Info from Epic API

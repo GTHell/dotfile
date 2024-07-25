@@ -1,0 +1,502 @@
+{
+  "app_name": "Impala",
+  "app_title": "Tom Clancy's The Division 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Impala",
+      "asset_id": "Impala",
+      "build_version": "TU1.8",
+      "catalog_item_id": "7179d788901e40ea8b7ab8605815d8f0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "impala"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-01-24T19:46:36.182Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheDivision2"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "4932"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "TheDivision2.exe"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "impala"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "TheDivision2.exe,thedivision2launcher.exe,The Division 2/EACLaunch.exe"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\4932"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "666f319539c748fb860a419233a9921e"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Tom Clancy's The Division 2",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-06T23:13:19.995Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "666f319539c748fb860a419233a9921e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "63567f41ee594413a911bd48e9eceaf3"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy's The Division 2 - Y2 Season Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "f2012dac14854ce98803922ecaec8038",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "f2012dac14854ce98803922ecaec8038",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-09-28T14:54:22.704Z",
+        "mainGameItem": {
+          "id": "7179d788901e40ea8b7ab8605815d8f0",
+          "namespace": "impala",
+          "unsearchable": false
+        },
+        "namespace": "impala",
+        "releaseInfo": [
+          {
+            "appId": "SeasonPass2Test",
+            "compatibleApps": [],
+            "dateAdded": "2019-03-13T00:00:00.000Z",
+            "id": "79ada9a52c9a4f6fa83608b012cb280d",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Tom Clancy's The Division 2 - Y2 Season Pass",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-03-13T17:54:06.153Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "666f319539c748fb860a419233a9921e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "e9d4b8cc9581441bb44f67167c8c9d84"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy's The Division 2 - Y1 Season Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "e95267125c9f4278a23cdc448f25aa23",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "e95267125c9f4278a23cdc448f25aa23",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-09-28T14:54:22.704Z",
+        "mainGameItem": {
+          "id": "7179d788901e40ea8b7ab8605815d8f0",
+          "namespace": "impala",
+          "unsearchable": false
+        },
+        "namespace": "impala",
+        "releaseInfo": [
+          {
+            "appId": "SeasonPassTest",
+            "compatibleApps": [],
+            "dateAdded": "2019-03-13T00:00:00.000Z",
+            "id": "e303b2c169c1461aa2e5041a401dff33",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Tom Clancy's The Division 2 - Y1 Season Pass",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-05T17:24:25.167Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "666f319539c748fb860a419233a9921e"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "191a07c7ba7c4b01a1f93eba70f33003"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy's The Division 2 - One-time DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "f0829a044047495d833644221482038f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f0829a044047495d833644221482038f",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-20T14:47:46.931Z",
+        "mainGameItem": {
+          "id": "7179d788901e40ea8b7ab8605815d8f0",
+          "namespace": "impala",
+          "unsearchable": false
+        },
+        "namespace": "impala",
+        "releaseInfo": [
+          {
+            "appId": "ImpalaOneTime",
+            "compatibleApps": [],
+            "dateAdded": "2022-06-28T19:59:58.731Z",
+            "id": "dbd5b3845aa84e38820dfdd66c4113e3",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tom Clancy's The Division 2 - One-time DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-28T15:04:55.438Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "666f319539c748fb860a419233a9921e"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "6915e128ce0b499b85cd8eecfec18136"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "One Time Offer Pack Y5S2",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "60812fb873f340ffbaf62043bbea3cb6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "60812fb873f340ffbaf62043bbea3cb6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-11-01T13:37:24.307Z",
+        "mainGameItem": {
+          "id": "7179d788901e40ea8b7ab8605815d8f0",
+          "namespace": "impala",
+          "unsearchable": false
+        },
+        "namespace": "impala",
+        "releaseInfo": [
+          {
+            "appId": "division2onetimeofferpack2022",
+            "compatibleApps": [],
+            "dateAdded": "2023-11-01T13:37:22.824Z",
+            "id": "04b4bfd4ff4544159a3f2a3947cb5713",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "One Time Offer Pack Y5S2",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-06T15:12:10.499Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "666f319539c748fb860a419233a9921e"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "c92f900989934ff4bedcffd9e7ba232c"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Tom Clancy\u2019s The Division 2 \u2013 Wrapped Pack",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "1a3dc2e9fa154a4c9f1f9cec36c9e993",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1a3dc2e9fa154a4c9f1f9cec36c9e993",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-11T14:11:01.031Z",
+        "mainGameItem": {
+          "id": "7179d788901e40ea8b7ab8605815d8f0",
+          "namespace": "impala",
+          "unsearchable": false
+        },
+        "namespace": "impala",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tom Clancy\u2019s The Division 2 \u2013 Wrapped Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-06T15:12:13.580Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "NeverUpdate": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "parentPartnerLinkID": {
+            "type": "STRING",
+            "value": "666f319539c748fb860a419233a9921e"
+          },
+          "partnerLinkID": {
+            "type": "STRING",
+            "value": "6fe441a58bc347fd95c7f1c853bb46eb"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "'FIRST ROGUE VALUE PACK'",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "8f1b5cc28c1e4fb8874a378c6f84d960",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8f1b5cc28c1e4fb8874a378c6f84d960",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-11T14:11:01.037Z",
+        "mainGameItem": {
+          "id": "7179d788901e40ea8b7ab8605815d8f0",
+          "namespace": "impala",
+          "unsearchable": false
+        },
+        "namespace": "impala",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "'FIRST ROGUE VALUE PACK'",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7179d788901e40ea8b7ab8605815d8f0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7179d788901e40ea8b7ab8605815d8f0",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1450,
+        "md5": "99fd67a6a935b8c2436385b0c54e6f92",
+        "size": 670540,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-03-08T00:52:04.638Z",
+        "url": "https://cdn1.epicgames.com/impala/item/Game-Page-Promo-2580x1450-99fd67a6a935b8c2436385b0c54e6f92.jpg",
+        "width": 2580
+      },
+      {
+        "height": 1692,
+        "md5": "67de7c0d4e9395a7bfdb723fccf268c0",
+        "size": 227329,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-03-08T00:55:01.490Z",
+        "url": "https://cdn1.epicgames.com/impala/item/TheDivision2_LOGO_WhiteOrange_RGB-7083x1692-67de7c0d4e9395a7bfdb723fccf268c0.png",
+        "width": 7083
+      },
+      {
+        "height": 1420,
+        "md5": "4f0c658d399e26d7120aa6b04d4f77a0",
+        "size": 199408,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/impala/item/Diesel_product_tctd2_Portrait-Promo-(2)-1280x1420-19a6b9b120b24529d92ed1d87f1185455ceb84aa-1280x1420-4f0c658d399e26d7120aa6b04d4f77a0.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2024-06-06T15:12:13.588Z",
+    "namespace": "impala",
+    "releaseInfo": [
+      {
+        "appId": "Impala",
+        "compatibleApps": [],
+        "dateAdded": "2019-01-24T00:00:00.000Z",
+        "id": "b0ab2d60ce854ce0abba8654ad5e3b0a",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Tom Clancy's The Division 2",
+    "unsearchable": false
+  }
+}

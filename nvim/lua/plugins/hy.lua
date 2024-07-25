@@ -1,0 +1,31 @@
+return {
+  -- {
+  --   "nvim-treesitter/nvim-treesitter",
+  --   opts = function(_, opts)
+  --     -- vim.list_extend(opts.ensure_installed, { "hy" })
+  --
+  --     -- local parser_config = require("nvim-treesitter.parsers").get_parser_configs()
+  --     -- parser_config.hy = {
+  --     --   install_info = {
+  --     --     url = "https://github.com/kwshi/tree-sitter-hy",
+  --     --     files = { "src/parser.c" },
+  --     --     branch = "main",
+  --     --     generate_requires_npm = false,
+  --     --     requires_generate_from_grammar = false,
+  --     --   },
+  --     --   filetype = "hy",
+  --     -- }
+  --
+  --     -- vim.list_extend(opts.parsers, {
+  --     --   install_info = {
+  --     --     url = "https://github.com/kwshi/tree-sitter-hy",
+  --     --     files = { "src/parser.c" },
+  --     --     branch = "main",
+  --     --     generate_requires_npm = false,
+  --     --     requires_generate_from_grammar = false,
+  --     --   },
+  --     --   filetype = "hy",
+  --     -- })
+  --   end,
+  -- },
+}

@@ -1,0 +1,1382 @@
+{
+  "app_name": "Redstart",
+  "app_title": "Dying Light 2 Stay Human - Reloaded Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Redstart",
+      "asset_id": "Redstart",
+      "build_version": "1.17.0_4891830_fix1",
+      "catalog_item_id": "ec549727d7084801a2ff7f63eb0e5459",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "6ccde37b411e43758b60121610d8d25a"
+      },
+      "namespace": "87b7846d2eba4bc49eead0854323aba8"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi456729DgFYpxm5WhcXvZbHgSv670",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-23T20:31:39.322Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/dying light 2/out/storage/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DyingLight2StayHuman"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "87b7846d2eba4bc49eead0854323aba8"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Dying Light 2 Stay Human - Reloaded Edition",
+    "developer": "Techland",
+    "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-22T23:28:45.586Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2: Stay Human - Halloween DLC",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "74081f51f0ec48258ad1ed9137bae258",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "74081f51f0ec48258ad1ed9137bae258",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-22T23:28:45.586Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2: Stay Human - Halloween DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-11T14:42:41.798Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Getting Stronger audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "a56c485b0254467690df93e91e846e06",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a56c485b0254467690df93e91e846e06",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-11T14:46:32.185Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Getting Stronger audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-03T22:12:41.677Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Redstart - Development DLC",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "834e2ddeb00343e8a78d45f06c7de971",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "834e2ddeb00343e8a78d45f06c7de971",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-03T22:12:41.677Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [
+          {
+            "appId": "10ad491e1cd34e989323b482458f22c5",
+            "id": "247a080b39484b4c847a6ce917ea4787",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart - Development DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-11T14:43:17.229Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "The Aristocrat Pack audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "d15ddf1901ff42e3a76e5afe109139b1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d15ddf1901ff42e3a76e5afe109139b1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-02-22T12:55:31.769Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Aristocrat Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-14T17:12:12.115Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Bloody Ties",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "97eda0bbfbc64affa044a189e884e9b8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "97eda0bbfbc64affa044a189e884e9b8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "69c09791f91d393fc8232ca8fa705c83",
+            "size": 994603,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-08-18T10:33:11.827Z",
+            "url": "https://cdn1.epicgames.com/item/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanBloodyTies_Techland_DLC_S1_2560x1440-69c09791f91d393fc8232ca8fa705c83",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "e1a800408a83680537aea47ce0a1a5be",
+            "size": 902534,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-08-18T10:33:15.358Z",
+            "url": "https://cdn1.epicgames.com/item/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanBloodyTies_Techland_DLC_S2_1200x1600-e1a800408a83680537aea47ce0a1a5be",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-02-22T15:50:17.191Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [
+          {
+            "appId": "b7d4f369da144f15a518e7cd9302c6b7",
+            "id": "7b65389664b0416481cc0b2e042b87c3",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Bloody Ties",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-19T18:56:03.911Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Redstart Story DLC02",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "98b76268acb44330bc6190a0cce75a6a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "98b76268acb44330bc6190a0cce75a6a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-09T15:26:23.701Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [
+          {
+            "appId": "6deb669140924af0925d729df5268adb",
+            "compatibleApps": [],
+            "dateAdded": "2022-07-19T18:55:34.820Z",
+            "id": "1abde1792c6a43899f200c2f6e3321bf",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart Story DLC02",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi456729DgFYpxm5WhcXvZbHgSv670",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-10-28T16:14:08.032Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DL2DevTools"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2: Stay Human - Developer Tools",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "38eac1a3a5164aba9e9b6a12408e8f3c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "38eac1a3a5164aba9e9b6a12408e8f3c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "459172c5d4644cc721797304791fa05f",
+            "size": 999591,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-12-07T05:59:28.133Z",
+            "url": "https://cdn1.epicgames.com/item/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanDeveloperTools_Techland_DLC_S1_2560x1440-459172c5d4644cc721797304791fa05f",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "7aea77b2563c83578830e1fc65c85403",
+            "size": 723782,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-12-07T05:59:35.421Z",
+            "url": "https://cdn1.epicgames.com/item/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanDeveloperTools_Techland_DLC_S2_1200x1600-7aea77b2563c83578830e1fc65c85403",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-12-14T15:26:29.171Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [
+          {
+            "appId": "59ceda5a215a42cabbfa958faef0b297",
+            "id": "ca94d2991b624d7c981498a9b0438768",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2: Stay Human - Developer Tools",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-03T18:42:11.079Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Redstart Rais Skin Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "43e2f8935ddf4773946682caab51a430",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "43e2f8935ddf4773946682caab51a430",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-04-12T21:21:14.415Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart Rais Skin Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-03T18:41:52.769Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Redstart Brecken Skin Audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "72b09c15e6b2463e9d22a107d3685de8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "72b09c15e6b2463e9d22a107d3685de8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-04-12T21:21:14.418Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart Brecken Skin Audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-27T18:54:04.569Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Gunslinger Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "f087d2cda2bf4a83b5c45ecdd5aba2f3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f087d2cda2bf4a83b5c45ecdd5aba2f3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-27T18:54:04.569Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Gunslinger Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-27T18:54:34.313Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Rahim Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "7f2ace5559c246b4bf4ae8cec709ae69",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7f2ace5559c246b4bf4ae8cec709ae69",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-27T18:54:34.313Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Rahim Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-27T18:54:56.761Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Military Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "bd1233a77f6140ee8cc34975fa6ec388",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bd1233a77f6140ee8cc34975fa6ec388",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-27T18:54:56.761Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Military Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-27T18:55:48.736Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Nightrunner Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "1837d4a29d644691bfa6a48ab1790035",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1837d4a29d644691bfa6a48ab1790035",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-27T18:55:48.736Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Nightrunner Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-27T18:56:15.927Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Post-apo Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "85d749f639374b72a6cb0efb588c0bcc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "85d749f639374b72a6cb0efb588c0bcc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-27T18:56:15.927Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Post-apo Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-27T18:56:35.849Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Skullface Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "46899f9a815548249226079079fc4b37",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "46899f9a815548249226079079fc4b37",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-27T18:56:35.849Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Skullface Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-24T23:43:58.335Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2: Stay Human - TWD",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "a18716c61fd5429a9db5f3c4e99f3de6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a18716c61fd5429a9db5f3c4e99f3de6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-26T12:22:10.312Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2: Stay Human - TWD",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-24T23:45:00.000Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: PAYDAY 2 Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "4f1c69d35bc94df580e324e1cbccea7d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4f1c69d35bc94df580e324e1cbccea7d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-06-22T18:39:56.849Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: PAYDAY 2 Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-24T23:45:24.442Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2: Stay Human - WOD",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "8bf4bc7e66b6420a8fed2d7a01ec2658",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8bf4bc7e66b6420a8fed2d7a01ec2658",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-04-24T23:45:24.442Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2: Stay Human - WOD",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-10T11:38:35.872Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Samurai Skin Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "a2146747d7384c56a9f97f1347bfd0bc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a2146747d7384c56a9f97f1347bfd0bc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-13T00:05:38.400Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Samurai Skin Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-10T11:56:46.087Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Ninja Skin Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "66f26594ba684cc29d936dc6a226f1b1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "66f26594ba684cc29d936dc6a226f1b1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-13T00:05:38.394Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Ninja Skin Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-10T11:56:19.187Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Plague Skin Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "c6547d55068c4268b91a213eb90f41c1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c6547d55068c4268b91a213eb90f41c1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-13T00:05:38.402Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Plague Skin Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-10T11:57:21.009Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 Stay Human: Army Skin Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "791c3dcdb44b42dcbf6d7d1616ee6cd4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "791c3dcdb44b42dcbf6d7d1616ee6cd4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-13T00:05:38.396Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 Stay Human: Army Skin Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-05-31T14:45:29.417Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dying Light 2 - Hakon Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "0be53de29b074b2ebd72b8b80ebb6b68",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0be53de29b074b2ebd72b8b80ebb6b68",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-10T13:48:10.808Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dying Light 2 - Hakon Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T23:42:03.461Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Redstart 6000 VC audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "1f82c09c4e7340f5af7ef8b9a88c6da7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f82c09c4e7340f5af7ef8b9a88c6da7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-09-07T13:51:04.315Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart 6000 VC audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-13T20:35:30.977Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Redstart 3500 VC audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "eb738fb52c584e87ade77e33c6d6bd69",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eb738fb52c584e87ade77e33c6d6bd69",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-09-07T13:51:04.323Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart 3500 VC audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-13T20:34:57.929Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Redstart 2300 VC audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "b3afbf936cb342538547128edd9cec8d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b3afbf936cb342538547128edd9cec8d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-09-07T13:51:04.321Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart 2300 VC audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-13T20:34:06.973Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Redstart 1100 VC audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "fc2c664ec2b542d18e1721741fb3fa97",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fc2c664ec2b542d18e1721741fb3fa97",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-09-07T13:51:04.325Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart 1100 VC audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-13T20:33:26.642Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Redstart 500 VC audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "297b804b66274b4195b8566c373a6ae3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "297b804b66274b4195b8566c373a6ae3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-09-07T13:51:04.318Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart 500 VC audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-09-18T16:35:10.668Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "100 DL Points audience",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "2077da7e5e5b4890ae8c94d76f58b631",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2077da7e5e5b4890ae8c94d76f58b631",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-09-21T15:29:14.415Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "100 DL Points audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-30T21:20:41.962Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Redstart: Grim Santa Bundle",
+        "developer": "Techland",
+        "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+        "endOfSupport": false,
+        "entitlementName": "def2b3c5ed83491e900f57a046c96e82",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "def2b3c5ed83491e900f57a046c96e82",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-11-30T21:20:41.962Z",
+        "mainGameItem": {
+          "id": "ec549727d7084801a2ff7f63eb0e5459",
+          "namespace": "87b7846d2eba4bc49eead0854323aba8",
+          "unsearchable": false
+        },
+        "namespace": "87b7846d2eba4bc49eead0854323aba8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstart: Grim Santa Bundle",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "ec549727d7084801a2ff7f63eb0e5459",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ec549727d7084801a2ff7f63eb0e5459",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "98867399a3a85b1c0ec61f2333b00a32",
+        "size": 421265,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-02-16T10:28:31.466Z",
+        "url": "https://cdn1.epicgames.com/item/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanReloadedEdition_Techland_S1_2560x1440-98867399a3a85b1c0ec61f2333b00a32",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "76cef594ff94fbac64a8af1ebe4c7590",
+        "size": 783950,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-02-16T10:28:34.261Z",
+        "url": "https://cdn1.epicgames.com/item/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanReloadedEdition_Techland_S2_1200x1600-76cef594ff94fbac64a8af1ebe4c7590",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-22T15:50:17.194Z",
+    "namespace": "87b7846d2eba4bc49eead0854323aba8",
+    "releaseInfo": [
+      {
+        "appId": "Redstart",
+        "dateAdded": "2019-08-28T00:00:00.000Z",
+        "id": "864d50afeb234392b4a44883b229eebb",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Dying Light 2 Stay Human - Reloaded Edition",
+    "unsearchable": true
+  }
+}
