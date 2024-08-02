@@ -11,7 +11,7 @@ config = wezterm.config_builder()
 -- if wezterm.config_builder then
 -- end
 
-config.enable_tab_bar = true
+-- config.enable_tab_bar = true
 config.hide_tab_bar_if_only_one_tab = true
 
 -- Theme
@@ -129,7 +129,7 @@ config.font = wezterm.font_with_fallback({
 -- 32 px or 24 pt- pt = 18 / 100.45 * 72 = 12.9019412643106
 -- config.cell_width = 1.0
 config.line_height = 1.0
-config.font_size = 11
+config.font_size = 15.5
 -- config.font_size = 15.5
 
 -- window
@@ -282,7 +282,7 @@ wezterm.on("augment-command-palette", function(window, pane)
 				-- get current config
 				local config = window:get_config()
 				-- toggle tab bar
-				config.enable_tab_bar = false
+				-- config.enable_tab_bar = false
 				-- apply new config
 				window:set_config(config)
 				wezterm.reload_configuration()
@@ -303,8 +303,8 @@ end)
 config.window_close_confirmation = "NeverPrompt"
 
 -- enable wayland
-config.enable_wayland = false
+-- config.enable_wayland = false
 
-config.default_prog = { "zellij", "-l", "welcome" }
+-- config.default_prog = { "zellij", "-l", "welcome" }
 
 return config
