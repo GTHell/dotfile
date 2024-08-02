@@ -7,22 +7,22 @@ vim.o.timeout = true
 vim.o.timeoutlen = 220
 
 -- Codeium
-vim.keymap.set("i", "<A-f>", require("neocodeium").accept)
-vim.keymap.set("i", "<A-w>", function()
-  require("neocodeium").accept_word()
-end)
-vim.keymap.set("i", "<A-a>", function()
-  require("neocodeium").accept_line()
-end)
-vim.keymap.set("i", "<A-e>", function()
-  require("neocodeium").cycle_or_complete()
-end)
-vim.keymap.set("i", "<A-d>", function()
-  require("neocodeium").cycle_or_complete(-1)
-end)
-vim.keymap.set("i", "<A-c>", function()
-  require("neocodeium").clear()
-end)
+-- vim.keymap.set("i", "<A-f>", require("neocodeium").accept)
+-- vim.keymap.set("i", "<A-w>", function()
+--   require("neocodeium").accept_word()
+-- end)
+-- vim.keymap.set("i", "<A-a>", function()
+--   require("neocodeium").accept_line()
+-- end)
+-- vim.keymap.set("i", "<A-e>", function()
+--   require("neocodeium").cycle_or_complete()
+-- end)
+-- vim.keymap.set("i", "<A-d>", function()
+--   require("neocodeium").cycle_or_complete(-1)
+-- end)
+-- vim.keymap.set("i", "<A-c>", function()
+--   require("neocodeium").clear()
+-- end)
 
 -- localleader to \
 vim.g.maplocalleader = "\\"
