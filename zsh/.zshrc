@@ -1,4 +1,5 @@
 # zmodload zsh/zprof
+export PATH=/opt/homebrew/bin:$PATH
 
 # only check compinit once a day
 autoload -Uz compinit 
@@ -179,6 +180,7 @@ alias ghcs="gh copilot suggest"
 alias ghce="gh copilot explain"
 alias y=yazi
 alias note="vim /mnt/c/Users/Asus/Dropbox/notes"
+alias brewx="/usr/local/bin/brew" # brew x86_64 through Rosetta
 
 # ls alias. Replace eza with lsd if you want to use lsd
 alias ll="eza -l -g --icons --git"
@@ -206,12 +208,19 @@ export ZVM_VI_INSERT_ESCAPE_BINDKEY=jj
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-# zprof
-export PYENV_ROOT="$HOME/.pyenv"
-[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
 
-eval "$(pyenv virtualenv-init -)"
+# zprof
+# export PYENV_ROOT="$HOME/.pyenv"
+# [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+# eval "$(pyenv init -)"
+
+# pyenv virtualenv
+# eval "$(pyenv virtualenv-init -)"
+
+# nvm mac
+export NVM_DIR="$HOME/.nvm"
+[ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
+[ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
 
 # nvm
 # export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
@@ -220,3 +229,8 @@ eval "$(pyenv virtualenv-init -)"
 # fastfetch
 fastfetch -c ~/.config/fastfetch/archey.jsonc
 
+export LDFLAGS="-L/opt/homebrew/opt/zlib/lib"
+export CPPFLAGS="-I/opt/homebrew/opt/zlib/include"
+export ARCHFLAGS="-arch arm64"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
