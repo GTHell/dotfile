@@ -15,7 +15,6 @@ config = wezterm.config_builder()
 config.hide_tab_bar_if_only_one_tab = true
 
 -- Theme
-config.color_scheme = "Tokyo Night"
 config.color_scheme = "Tokyo Night (Gogh)"
 config.color_scheme = "deep"
 config.color_scheme = "Solarized Darcula (Gogh)"
@@ -30,7 +29,6 @@ config.color_scheme = "Aardvark Blue"
 config.color_scheme = "Atelier Sulphurpool (base16)"
 config.color_scheme = "Belafonte Night (Gogh)"
 config.color_scheme = "ForestBlue" -- better look
-config.color_scheme = "shades-of-purple" -- shade of purple
 config.color_scheme = "Outrun Dark (base16)" -- similar but too deep
 config.color_scheme = "Morada (Gogh)" -- similar but brighters
 config.color_scheme = "Lavandula (Gogh)" -- deep purple
@@ -48,14 +46,16 @@ config.color_scheme = "Banana Blueberry"
 config.color_scheme = "Solarized Dark - Patched"
 config.color_scheme = "Gruvbox Dark (Gogh)"
 config.color_scheme = "Google (dark) (terminal.sexy)"
-config.color_scheme = "Gruvbox Material (Gogh)"
 
 config.color_scheme = "iTerm2 Default"
 config.color_scheme = "Dark+"
 config.color_scheme = "Dracula+"
-config.color_scheme = "Dracula (Official)"
-config.color_scheme = "Rosé Pine Moon (Gogh)"
 config.color_scheme = "Rosé Pine (Gogh)" -- darker
+config.color_scheme = "Rosé Pine Moon (Gogh)"
+config.color_scheme = "Gruvbox Material (Gogh)"
+config.color_scheme = "Tokyo Night"
+config.color_scheme = "Dracula (Official)"
+config.color_scheme = "shades-of-purple" -- shade of purple
 
 config.window_background_opacity = 0.94
 -- options available: Acrylic, Mica, Tabbed

@@ -19,11 +19,13 @@ return { -- add gruvbox
   {
     "LazyVim/LazyVim",
     opts = {
-      -- colorscheme "gruvbox",
+      -- colorscheme("gruvbox"),
       -- colorscheme = "catppuccin-mocha",
       -- colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
       -- colorscheme = "vscode",
-      colorscheme = "catppuccin-frappe",
+      -- colorscheme = "catppuccin-frappe",
+      -- colorscheme = "catppuccin-latte",
+      colorscheme = "tokyonight",
     },
   }, -- { import = "lazyvim.plugins.extras.ui.mini-starter" },
 }

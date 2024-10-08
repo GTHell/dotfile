@@ -6,7 +6,7 @@ return {
       telescope.setup({
         pickers = {
           buffers = {
-            initial_mode = "normal",
+            initial_mode = "insert",
             sort_mru = true,
             theme = "dropdown",
             -- disable previewer
@@ -49,7 +49,7 @@ return {
             },
             width = 0.87,
             height = 0.80,
-            preview_cutoff = 120,
+            preview_cutoff = 50,
           },
 
           path_display = {

@@ -1,5 +1,6 @@
 # zmodload zsh/zprof
 export PATH=/opt/homebrew/bin:$PATH
+source /opt/homebrew/share/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 
 # only check compinit once a day
 autoload -Uz compinit 
@@ -129,10 +130,11 @@ COMPLETION_WAITING_DOTS="true"
 plugins=(
   git
   nvm
+  # Shoould install from source directly
+  # zsh-autocomplete
   zsh-autosuggestions
   zsh-syntax-highlighting
   fast-syntax-highlighting
-  zsh-autocomplete
   zsh-vi-mode
   autoswitch_virtualenv
 )
@@ -181,6 +183,7 @@ alias ghce="gh copilot explain"
 alias y=yazi
 alias note="vim /mnt/c/Users/Asus/Dropbox/notes"
 alias brewx="/usr/local/bin/brew" # brew x86_64 through Rosetta
+alias note="vim /Users/sith/Dropbox/notes/"
 
 # ls alias. Replace eza with lsd if you want to use lsd
 alias ll="eza -l -g --icons --git"
@@ -234,3 +237,7 @@ export CPPFLAGS="-I/opt/homebrew/opt/zlib/include"
 export ARCHFLAGS="-arch arm64"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+
+# start yabai
+# yabai --start-service
+# yabai --load-sa
