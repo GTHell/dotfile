@@ -5,7 +5,7 @@ keybinds {
     normal clear-defaults=true {
         // tmux
         bind "Ctrl f" { SwitchToMode "Tmux"; }
-        bind "Ctrl a" { SwitchToMode "Tmux"; }
+        ///bind "Ctrl a" { SwitchToMode "Tmux"; }
         bind "Ctrl ;" { SwitchToMode "Tmux"; }
         unbind "Ctrl b"
         // general stuff
@@ -13,16 +13,20 @@ keybinds {
         bind "Alt q" { CloseFocus; SwitchToMode "Normal"; }
         bind "Alt w" { ToggleFloatingPanes;}
         bind "Alt t" { NewTab;}
-        // bind "Alt h" "Alt Left" { MoveFocusOrTab "Left"; }
-        // bind "Alt l" "Alt Right" { MoveFocusOrTab "Right"; }
-        // bind "Alt j" "Alt Down" { MoveFocus "Down"; }
-        // bind "Alt k" "Alt Up" { MoveFocus "Up"; }
+        bind "Alt h" "Alt Left" { MoveFocusOrTab "Left"; }
+        bind "Alt l" "Alt Right" { MoveFocusOrTab "Right"; }
+        bind "Alt j" "Alt Down" { MoveFocus "Down"; }
+        bind "Alt k" "Alt Up" { MoveFocus "Up"; }
         bind "Alt +" { Resize "Increase"; }
         bind "Alt -" { Resize "Decrease"; }
         bind "Alt [" { PreviousSwapLayout; }
         bind "Alt ]" { NextSwapLayout; }
         bind "Alt i" { MoveTab "Left"; }
         bind "Alt o" { MoveTab "Right"; }
+        bind "Alt f" { ToggleFocusFullscreen; }
+
+    ///    bind "Alt k" { GoToPreviousTab; }
+      ///  bind "Alt j" { GoToNextTab; }
     }
 
     tmux clear-defaults=true {
@@ -66,6 +70,7 @@ keybinds {
         bind "q" { Quit; }
         bind "d" { Detach; }
         bind "Space" { NextSwapLayout; }
+        bind "z" { ToggleFocusFullscreen; SwitchToMode "Normal"; }
     }
 
     // normal {

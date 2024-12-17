@@ -56,7 +56,7 @@ return { -- add gruvbox
 
       logo = string.rep("\n", 8) .. logo .. "\n\n"
 
-      opts.config.header = vim.split(saturn_plus, "\n")
+      -- opts.config.header = vim.split(saturn_plus, "\n")
 
       -- opts.theme = "hyper"
       return opts

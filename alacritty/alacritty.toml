@@ -1,6 +1,6 @@
 # set working directory to d:/projects
 
-# import = ["~/.config/alacritty/themes/themes/challenger_deep.toml"] # good look
+import = ["~/.config/alacritty/themes/themes/challenger_deep.toml"] # good look
 # import = ["~/.config/alacritty/themes/themes/catppuccin_mocha.toml"]
 # import = ["~/.config/alacritty/themes/themes/baitong.toml"] # ???
 # import = ["~/.config/alacritty/themes/themes/cyber_punk_neon.toml"]
@@ -17,11 +17,10 @@
 # import = ["~/.config/alacritty/themes/themes/omni.toml"] # purple
 # import = ["~/.config/alacritty/themes/themes/xterm.toml"] # purple
 # import = ["~/.config/alacritty/themes/themes/solarized_dark.toml"]
-import = ["~/.config/alacritty/themes/themes/endeavouros.toml"] # endeavouros
+# import = ["~/.config/alacritty/themes/themes/endeavouros.toml"] # endeavouros
 
-
-[shell]
-program = "/usr/bin/zsh"
+# [shell]
+# program = "/usr/bin/zsh"
 
 # font config for windows
 [font]
@@ -29,14 +28,14 @@ program = "/usr/bin/zsh"
 # "Noto Sans Mono:h13.6"
 # normal = { family = "JetBrainsMono Nerd Font" }
 
-# normal = { family = "JetBrainsMono Nerd Font" }
+normal = { family = "JetBrainsMono Nerd Font" }
 # normal = { family = "SauceCodePro Nerd Font" }
 # normal = { family = "0xProto nerd font" }
 # normal = { family = "NotoSans Nerd Font" }
 # normal = { family = "IosevkaTerm Nerd Font" }
 # normal = { family = "NotoSansM Nerd Font" }
-normal = { family = "Terminess Nerd Font" }
-size = 12
+# normal = { family = "Terminess Nerd Font" }
+size = 16
 offset = { x = 0, y = 1 }
 
 # some quirk with IosevkaTerm
@@ -62,15 +61,17 @@ offset = { x = 0, y = 1 }
 # windows size 
 [window]
 
+option_as_alt = "Both"
+
 # dimensions = { columns = 130, lines = 36 }
 # position.x = 330
 # position.y = 50
 
-decorations = "None"
+decorations = "buttonless"
 
 padding = { x = 10, y = 10 }
 dynamic_padding = true
-opacity = 0.92
+opacity = 0.85
 blur = true
 # decorations_theme_variant = "Dark"
 

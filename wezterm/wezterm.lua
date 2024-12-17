@@ -93,7 +93,6 @@ config.cursor_blink_rate = 500
 -- config.cursor_blink_ease_out = "Constant"
 
 -- font
-config.font = wezterm.font("Iosevka Nerd Font")
 config.font = wezterm.font("JetBrainsMono Nerd Font", { weight = "Bold" })
 config.font = wezterm.font("JetBrainsMono Nerd Font", { weight = "DemiBold" })
 config.font = wezterm.font("Terminess Nerd Font Mono", { weight = "Regular" })
@@ -115,6 +114,8 @@ config.font = wezterm.font_with_fallback({
 		family = "MiSans Khmer",
 	},
 })
+config.font = wezterm.font("Iosevka Nerd Font")
+config.font = wezterm.font("JetBrainsMono Nerd Font")
 -- =>
 
 -- Terminess recommend size
@@ -129,7 +130,7 @@ config.font = wezterm.font_with_fallback({
 -- 32 px or 24 pt- pt = 18 / 100.45 * 72 = 12.9019412643106
 -- config.cell_width = 1.0
 config.line_height = 1.0
-config.font_size = 15.5
+config.font_size = 16.5
 -- config.font_size = 15.5
 
 -- window

@@ -71,14 +71,6 @@
                             "to": [{ "key_code": "left_control" }]
                         }
                     ]
-                },
-                {
-                    "identifiers": {
-                        "is_pointing_device": true,
-                        "product_id": 305,
-                        "vendor_id": 1390
-                    },
-                    "ignore": false
                 }
             ],
             "name": "Default profile",

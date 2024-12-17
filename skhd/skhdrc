@@ -2,10 +2,10 @@
 #
 
 # change window focus within space
-alt - j : yabai -m window --focus south
-alt - k : yabai -m window --focus north
-alt - h : yabai -m window --focus west
-alt - l : yabai -m window --focus east
+ctrl + alt - j : yabai -m window --focus south
+ctrl + alt - k : yabai -m window --focus north
+ctrl + alt - h : yabai -m window --focus west
+ctrl + alt - l : yabai -m window --focus east
 
 # change to zoom-fullscreen
 alt - f : yabai -m window --toggle zoom-fullscreen
@@ -39,11 +39,11 @@ shift + alt - k : yabai -m window --swap north
 shift + alt - h : yabai -m window --swap west
 shift + alt - l : yabai -m window --swap east
 
-# move window and split
-ctrl + alt - j : yabai -m window --warp south
-ctrl + alt - k : yabai -m window --warp north
-ctrl + alt - h : yabai -m window --warp west
-ctrl + alt - l : yabai -m window --warp east
+# # move window and split
+# ctrl + alt - j : yabai -m window --warp south
+# ctrl + alt - k : yabai -m window --warp north
+# ctrl + alt - h : yabai -m window --warp west
+# ctrl + alt - l : yabai -m window --warp east
 
 # move window to display left and right
 shift + alt - s : yabai -m window --display west; yabai -m display --focus west;

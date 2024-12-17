@@ -1,14 +1,18 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.coding.codeium",
-    "lazyvim.plugins.extras.coding.copilot-chat",
+    "lazyvim.plugins.extras.ai.codeium",
+    "lazyvim.plugins.extras.ai.copilot-chat",
     "lazyvim.plugins.extras.coding.luasnip",
     "lazyvim.plugins.extras.coding.mini-comment",
     "lazyvim.plugins.extras.coding.mini-surround",
+    "lazyvim.plugins.extras.coding.neogen",
     "lazyvim.plugins.extras.coding.yanky",
     "lazyvim.plugins.extras.editor.dial",
+    "lazyvim.plugins.extras.editor.fzf",
     "lazyvim.plugins.extras.editor.harpoon2",
+    "lazyvim.plugins.extras.editor.inc-rename",
     "lazyvim.plugins.extras.editor.mini-move",
+    "lazyvim.plugins.extras.editor.refactoring",
     "lazyvim.plugins.extras.formatting.black",
     "lazyvim.plugins.extras.formatting.prettier",
     "lazyvim.plugins.extras.lang.clangd",
@@ -23,6 +27,8 @@
     "lazyvim.plugins.extras.lang.vue",
     "lazyvim.plugins.extras.lang.yaml",
     "lazyvim.plugins.extras.linting.eslint",
+    "lazyvim.plugins.extras.lsp.none-ls",
+    "lazyvim.plugins.extras.ui.mini-animate",
     "lazyvim.plugins.extras.ui.mini-indentscope",
     "lazyvim.plugins.extras.ui.treesitter-context",
     "lazyvim.plugins.extras.util.dot",
@@ -33,7 +39,7 @@
     "lazyvim.plugins.extras.vscode"
   ],
   "news": {
-    "NEWS.md": "6520"
+    "NEWS.md": "7429"
   },
-  "version": 6
+  "version": 7
 }
