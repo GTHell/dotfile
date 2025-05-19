@@ -184,8 +184,10 @@ alias y=yazi
 alias note="vim /mnt/c/Users/Asus/Dropbox/notes"
 alias brewx="/usr/local/bin/brew" # brew x86_64 through Rosetta
 alias note="vim /Users/sith/Dropbox/notes/"
+alias lg="lazygit"
 
 # ls alias. Replace eza with lsd if you want to use lsd
+alias ls="eza"
 alias ll="eza -l -g --icons --git"
 alias llt="eza -1 --icons --tree --git-ignore"
 
@@ -238,6 +240,13 @@ export ARCHFLAGS="-arch arm64"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 
+# mysql-client
+export LDFLAGS="-L/opt/homebrew/opt/mysql-client/lib"
+export CPPFLAGS="-I/opt/homebrew/opt/mysql-client/include"
+
 # start yabai
 # yabai --start-service
 # yabai --load-sa
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/Users/sith/.lmstudio/bin"

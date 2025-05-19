@@ -18,7 +18,7 @@ local general = augroup("General", { clear = true })
 
 -- Set shiftwidth to 4 for Python files
 autocmd("FileType", {
-  pattern = { "c", "cs", "cpp", "java", "python", "h" },
+  pattern = { "c", "cs", "cpp", "java", "python", "h", "yml", "yaml", "Dockerfile" },
   callback = function()
     vim.bo.softtabstop = 4
     vim.bo.shiftwidth = 4

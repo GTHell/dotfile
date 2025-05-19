@@ -77,9 +77,9 @@ return { -- add gruvbox
       -- colorscheme = "catppuccin-mocha",
       -- colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
       -- colorscheme = "vscode",
-      -- colorscheme = "catppuccin-frappe",
+      colorscheme = "catppuccin-frappe",
       -- colorscheme = "catppuccin-latte",
-      colorscheme = "gruvbox",
+      -- colorscheme = "gruvbox",
     },
   }, -- { import = "lazyvim.plugins.extras.ui.mini-starter" },
 }

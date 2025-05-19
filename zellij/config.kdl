@@ -21,8 +21,6 @@ keybinds {
         bind "Alt -" { Resize "Decrease"; }
         bind "Alt [" { PreviousSwapLayout; }
         bind "Alt ]" { NextSwapLayout; }
-        bind "Alt i" { MoveTab "Left"; }
-        bind "Alt o" { MoveTab "Right"; }
         bind "Alt f" { ToggleFocusFullscreen; }
 
     ///    bind "Alt k" { GoToPreviousTab; }
@@ -41,7 +39,8 @@ keybinds {
         bind "o" { SwitchToMode "Session"; }
         bind "o" { SwitchToMode "Session"; }
 
-        bind "n" { NewPane; SwitchToMode "Normal"; }
+        bind "/" { NewPane "Down"; SwitchToMode "Normal"; }
+        bind "n" { NewPane "Right"; SwitchToMode "Normal"; }
         bind "x" { CloseFocus; SwitchToMode "Normal"; }
 
         // movement
@@ -61,6 +60,8 @@ keybinds {
         bind "7" { GoToTab 7; SwitchToMode "Normal"; }
         bind "8" { GoToTab 8; SwitchToMode "Normal"; }
         bind "9" { GoToTab 9; SwitchToMode "Normal"; }
+        bind "Alt i" { MoveTab "Left"; }
+        bind "Alt o" { MoveTab "Right"; }
 
         // TODO: add automation to scripts
         // bind D to todo note

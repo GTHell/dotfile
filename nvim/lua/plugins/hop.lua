@@ -4,7 +4,7 @@ return {
     version = "*",
     opts = function(opts, _)
       -- opts.keys = "etovxqpdygfblzhckisuran"
-      -- opts.keys = "sadfjklewcmpgh"
+      opts.keys = "sadfjklewcmpgh"
 
       opts.case_insensitive = true
       opts.multi_windows = true
